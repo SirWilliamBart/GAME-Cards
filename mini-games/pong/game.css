@@ -1,0 +1,47 @@
+.pong-card {
+    border-radius: 16px;
+    padding: 16px;
+    background: #111;
+    color: #eee;
+    box-shadow: 0 10px 30px rgba(0,0,0,.35);
+    font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+}
+
+.pong-head {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 12px;
+    margin-bottom: 12px;
+}
+
+.pong-title { font-size: 18px; font-weight: 700; }
+.pong-sub { font-size: 12px; opacity: .8; margin-top: 2px; }
+.pong-score { font-size: 20px; font-weight: 800; min-width: 72px; text-align: right; }
+
+.pong-wrap { position: relative; }
+
+#pongCanvas {
+    width: 100%;
+    height: auto;
+    display: block;
+    background: #000;
+    border-radius: 12px;
+    border: 1px solid rgba(255,255,255,.12);
+    outline: none;
+}
+
+.pong-hint {
+    position: absolute;
+    inset: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 12px;
+    background: rgba(0,0,0,.55);
+    color: #fff;
+    user-select: none;
+    pointer-events: none;
+    transition: opacity 150ms ease;
+}
+.pong-hint.hidden { opacity: 0; }

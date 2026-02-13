@@ -1,0 +1,111 @@
+/* Scoped under .tanks-root so it won't affect the rest of your app */
+.tanks-root{
+    --panel:#1a1a1a;
+    --text:#eaeaea;
+    --muted:#bdbdbd;
+    --border:#2e2e2e;
+
+    /* FILL THE HOST */
+    height: 100%;
+    max-height: 100%;
+    min-height: 0;
+
+    display: flex;
+    flex-direction: column;
+
+    max-width: 1100px;
+    margin: 0 auto;
+
+    /* smaller padding on small hosts */
+    padding: clamp(8px, 1.6vh, 14px);
+
+    color: var(--text);
+    font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+
+    /* prevent leaking extra space past host */
+    overflow: hidden;
+}
+
+.tanks-root *{ box-sizing:border-box; }
+
+.tanks-root .topbar{
+    flex: 0 0 auto;
+    background: var(--panel);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 12px 14px;
+    margin-bottom: 12px;
+}
+
+.tanks-root .title{
+    font-weight: 800;
+    font-size: 18px;
+    margin-bottom: 6px;
+}
+
+.tanks-root .hint{
+    font-size: 12px;
+    color: var(--muted);
+    line-height: 1.35;
+}
+
+/* This must be allowed to shrink inside the host */
+.tanks-root .stage{
+    flex: 1 1 auto;
+    min-height: 0;
+
+    background: var(--panel);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 12px;
+
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+
+    overflow: hidden; /* prevents bottom overflow */
+}
+
+/* Canvas fills remaining space above HUD */
+.tanks-root canvas{
+    flex: 1 1 auto;
+    min-height: 0;
+    width: 100%;
+    height: 100%;
+
+    display:block;
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+}
+
+/* HUD stays at bottom, never pushes outside */
+.tanks-root .hud{
+    flex: 0 0 auto;
+
+    display:flex;
+    align-items:center;
+    justify-content: space-between;
+    gap: 10px;
+
+    padding: 10px 12px;
+    border-radius: 10px;
+    border: 1px solid var(--border);
+    background: #141414;
+}
+
+.tanks-root .score{
+    font-weight: 800;
+    display:flex;
+    align-items:center;
+    gap: 8px;
+}
+
+.tanks-root .score .p1{ color:#7fd7ff; }
+.tanks-root .score .p2{ color:#ff9aa7; }
+.tanks-root .score .sep{ color: var(--muted); font-weight: 600; }
+
+.tanks-root .status{
+    color: var(--muted);
+    font-size: 13px;
+}

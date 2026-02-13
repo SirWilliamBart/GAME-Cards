@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Maze Race</title>
+  <link rel="stylesheet" href="./game.css" />
+</head>
+<body>
+<div class="mazeRoot" id="mazeRoot">
+  <div class="mazeHud">
+    <div class="mazeHudRow">
+      <div class="mazeTitle">Maze Race</div>
+
+      <div class="mazeControls">
+        <label class="mazeLabel">
+          Size:
+          <input id="mazeSize" type="range" min="12" max="60" value="28" step="1" />
+          <span id="mazeSizeVal" class="mazeValue">28</span>
+        </label>
+
+        <button id="newMazeBtn" class="mazeBtn">New maze</button>
+        <button id="resetBtn" class="mazeBtn">Reset players</button>
+      </div>
+    </div>
+
+    <div class="mazeHudRow mazeSmall">
+      <div class="mazeHelp">
+        P1: <b>WASD</b> &nbsp;|&nbsp; P2: <b>Arrow keys</b> &nbsp;|&nbsp; First to the <b>green exit</b> wins
+      </div>
+
+      <div class="mazeTimers">
+        <div class="mazeTimer"><span class="p1Dot"></span> P1: <span id="p1Time">0.000</span>s</div>
+        <div class="mazeTimer"><span class="p2Dot"></span> P2: <span id="p2Time">0.000</span>s</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="mazeStage">
+    <canvas id="mazeCanvas"></canvas>
+
+    <div id="mazeOverlay" class="mazeOverlay hidden" role="dialog" aria-modal="true">
+      <div class="mazeOverlayCard">
+        <div id="overlayTitle" class="mazeOverlayTitle">Winner!</div>
+        <div id="overlayBody" class="mazeOverlayBody"></div>
+        <div class="mazeOverlayActions">
+          <button id="playAgainBtn" class="mazeBtn primary">Play again (new maze)</button>
+          <button id="closeOverlayBtn" class="mazeBtn">Close</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script type="module" src="./game.js"></script>
+</body>
+</html>

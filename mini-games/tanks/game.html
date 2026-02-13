@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Tanks Duel</title>
+  <link rel="stylesheet" href="./game.css" />
+</head>
+<body>
+<!-- IMPORTANT: everything inside .tanks-root so CSS is scoped -->
+<div class="tanks-root">
+  <header class="topbar">
+    <div class="title">Tanks Duel</div>
+    <div class="hint">
+      P1: WASD move, Q/E rotate, F shoot · P2: Arrows move, / and . rotate, Enter shoot · R restart · Esc exit
+    </div>
+  </header>
+
+  <main class="stage">
+    <canvas id="game"></canvas>
+
+    <div class="hud">
+      <div class="score">
+        <span class="p1">P1</span> <span id="s1">0</span>
+        <span class="sep">—</span>
+        <span id="s2">0</span> <span class="p2">P2</span>
+      </div>
+      <div class="status" id="status">First to 5 wins</div>
+    </div>
+  </main>
+</div>
+
+<script type="module" src="./game.js"></script>
+</body>
+</html>

@@ -1,0 +1,53 @@
+.tic-root {
+    width: 100%;
+    height: 100%;
+    padding: 8px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    background: transparent;
+    font-family: system-ui, sans-serif;
+}
+
+.tic-topbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.tic-btn {
+    padding: 4px 8px;
+    border: 1px solid #666;
+    background: #eee;
+    cursor: pointer;
+}
+
+.tic-boardWrap {
+    flex: 1;
+    overflow: auto; /* important for 100x100 */
+    border: 1px solid #999;
+}
+
+.tic-board {
+    display: grid;
+    grid-template-columns: repeat(100, 1fr);
+    width: max-content;
+}
+
+.tic-cell {
+    width: 20px;
+    height: 20px;
+    border: 1px solid #ccc;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 14px;
+    font-weight: bold;
+    cursor: pointer;
+    user-select: none;
+}
+
+.tic-cell:hover {
+    background: #f0f0f0;
+}

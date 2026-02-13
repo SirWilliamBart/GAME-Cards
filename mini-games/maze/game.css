@@ -1,0 +1,167 @@
+:root {
+    --panel-bg: rgba(255, 255, 255, 0.92);
+    --panel-border: rgba(0, 0, 0, 0.12);
+    --text: #111;
+    --muted: rgba(0, 0, 0, 0.65);
+}
+
+html, body {
+    height: 100%;
+    margin: 0;
+    background: transparent;
+    color: var(--text);
+    font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+}
+
+.mazeRoot {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.mazeHud {
+    padding: 10px 12px;
+    border-bottom: 1px solid var(--panel-border);
+    background: var(--panel-bg);
+    backdrop-filter: blur(6px);
+}
+
+.mazeHudRow {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+    flex-wrap: wrap;
+}
+
+.mazeTitle {
+    font-weight: 800;
+    letter-spacing: 0.2px;
+}
+
+.mazeControls {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    flex-wrap: wrap;
+}
+
+.mazeLabel {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    color: var(--muted);
+    user-select: none;
+}
+
+.mazeValue {
+    display: inline-block;
+    min-width: 2.2em;
+    text-align: right;
+    color: var(--text);
+}
+
+.mazeBtn {
+    appearance: none;
+    border: 1px solid var(--panel-border);
+    background: white;
+    padding: 7px 10px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.mazeBtn:hover { filter: brightness(0.98); }
+.mazeBtn:active { transform: translateY(1px); }
+
+.mazeBtn.primary {
+    border-color: rgba(0, 0, 0, 0.2);
+    font-weight: 700;
+}
+
+.mazeSmall {
+    margin-top: 6px;
+    color: var(--muted);
+    font-size: 13px;
+}
+
+.mazeHelp {
+    flex: 1 1 auto;
+}
+
+.mazeTimers {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.mazeTimer {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 4px 8px;
+    border: 1px solid var(--panel-border);
+    border-radius: 999px;
+    background: rgba(255,255,255,0.65);
+}
+
+.p1Dot, .p2Dot {
+    width: 10px;
+    height: 10px;
+    border-radius: 999px;
+    display: inline-block;
+}
+.p1Dot { background: #2b6cff; }
+.p2Dot { background: #ff3b3b; }
+
+.mazeStage {
+    position: relative;
+    flex: 1 1 auto;
+    overflow: hidden;
+}
+
+#mazeCanvas {
+    width: 100%;
+    height: 100%;
+    display: block;
+    background: transparent;
+}
+
+.mazeOverlay {
+    position: absolute;
+    inset: 0;
+    display: grid;
+    place-items: center;
+    background: rgba(0,0,0,0.35);
+}
+
+.mazeOverlay.hidden {
+    display: none;
+}
+
+.mazeOverlayCard {
+    width: min(520px, calc(100% - 24px));
+    background: white;
+    border-radius: 16px;
+    border: 1px solid var(--panel-border);
+    padding: 14px 14px 12px;
+}
+
+.mazeOverlayTitle {
+    font-size: 18px;
+    font-weight: 900;
+    margin-bottom: 8px;
+}
+
+.mazeOverlayBody {
+    color: var(--muted);
+    line-height: 1.35;
+    margin-bottom: 12px;
+}
+
+.mazeOverlayActions {
+    display: flex;
+    justify-content: flex-end;
+    gap: 8px;
+    flex-wrap: wrap;
+}

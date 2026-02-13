@@ -1,0 +1,424 @@
+/* =========================================================
+   GLOBAL
+   ========================================================= */
+* { box-sizing: border-box; }
+
+body{
+    margin: 0;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    background: linear-gradient(180deg, #eaf3ff 0%, #dbe9ff 100%);
+    color: #24324a;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+/* When mini-game is open: prevent page scrolling */
+body.mini-game-open{
+    overflow: hidden;
+}
+
+/* App container (normal screens live in here) */
+.app{
+    width: 100%;
+    max-width: 560px;
+    padding: 20px;
+}
+
+/* =========================================================
+   SCREENS
+   ========================================================= */
+.screen{
+    background: #ffffff;
+    border-radius: 20px;
+    padding: 24px 22px 28px;
+    box-shadow: 0 16px 40px rgba(30, 60, 120, 0.15);
+    position: relative;
+    z-index: 1;
+}
+
+.hidden{
+    display: none !important;
+    pointer-events: none !important;
+}
+
+/* Ensure config is always clickable above anything */
+#config-screen{ z-index: 5; }
+#game-screen{
+    z-index: 4;
+    display: flex;
+    flex-direction: column;
+    min-height: 80vh;
+}
+
+/* =========================================================
+   MINI GAME SCREEN (FIXED, OPAQUE, CENTERED, NOT TRANSPARENT)
+   Assumes your HTML has:
+   <div id="mini-game-screen" class="screen hidden"> ... </div>
+   ========================================================= */
+#mini-game-screen{
+    position: fixed;
+    inset: 0;
+    z-index: 9999;
+
+    /* Center the mini-game "card" */
+    margin: auto;
+
+    /* Make this element the centered card */
+    width: min(1100px, 85vw);
+    height: 85vh;
+
+    /* IMPORTANT: opaque card, not transparent */
+    background: #ffffff;
+
+    /* Keep your normal screen styling feel */
+    border-radius: 20px;
+    box-shadow: 0 18px 60px rgba(30, 60, 120, 0.22);
+
+    /* Same internal layout style */
+    padding: 18px 18px 18px;
+    display: flex;
+    flex-direction: column;
+}
+
+/* On very small screens, reduce padding a bit */
+@media (max-width: 420px){
+    #mini-game-screen{
+        width: 92vw;
+        height: 88vh;
+        padding: 14px;
+        border-radius: 18px;
+    }
+}
+
+/* =========================================================
+   HEADINGS / TEXT
+   ========================================================= */
+h1{
+    margin: 0 0 10px;
+    font-size: 26px;
+    color: #1e3a8a;
+}
+
+.subtitle{
+    margin: 0 0 20px;
+    font-size: 14px;
+    color: #5b6b8c;
+    line-height: 1.35;
+}
+
+/* =========================================================
+   CONFIG
+   ========================================================= */
+.config-panel{
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+}
+
+.config-row{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    font-size: 14px;
+}
+
+.config-row input[type="number"]{
+    width: 140px;
+    padding: 9px 11px;
+    border-radius: 10px;
+    border: 1px solid #c7d7f2;
+    background: #f7faff;
+    color: #24324a;
+    font-size: 14px;
+}
+
+.config-actions{
+    display: flex;
+    justify-content: flex-end;
+    padding-top: 4px;
+}
+
+/* =========================================================
+   BUTTONS
+   ========================================================= */
+button{
+    padding: 10px 18px;
+    border-radius: 999px;
+    border: none;
+    background: linear-gradient(135deg, #4f8cff, #6aa6ff);
+    color: white;
+    font-weight: 700;
+    font-size: 14px;
+    cursor: pointer;
+    transition: transform 0.1s ease, box-shadow 0.1s ease, filter 0.15s ease;
+}
+
+button:hover{
+    transform: translateY(-1px);
+    box-shadow: 0 8px 18px rgba(79, 140, 255, 0.35);
+    filter: brightness(1.05);
+}
+
+button:active{
+    transform: translateY(0);
+    box-shadow: none;
+}
+
+#backButton{
+    background: #e1ecff;
+    color: #1e3a8a;
+}
+#backButton:hover{ background: #d4e4ff; }
+
+/* =========================================================
+   ERRORS
+   ========================================================= */
+.ui-error{
+    margin-top: 10px;
+    padding: 10px 12px;
+    border-radius: 12px;
+    background: #fff1f2;
+    border: 1px solid #fecdd3;
+    color: #9f1239;
+    font-size: 13px;
+    white-space: pre-wrap;
+}
+
+/* =========================================================
+   GAME SCREEN
+   ========================================================= */
+.top-bar{
+    display: flex;
+    justify-content: space-between;
+    gap: 12px;
+    margin-bottom: 18px;
+}
+
+.hint{
+    margin-top: auto;
+    font-size: 13px;
+    color: #5b6b8c;
+    text-align: center;
+    line-height: 1.35;
+}
+
+/* =========================================================
+   MINI GAME CONTENT (inside #mini-game-screen)
+   ========================================================= */
+.mini-game-topbar{
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    gap:12px;
+    margin-bottom:12px;
+    flex: 0 0 auto;
+}
+
+.mini-game-title{
+    font-weight:700;
+    opacity:.9;
+}
+
+/* host fills remaining height; no scrollbars */
+.mini-game-host{
+    position: relative;
+    flex: 1 1 auto;
+    width: 100%;
+    border-radius: 16px;
+    overflow: hidden;              /* IMPORTANT: no scrollbars */
+    background: #f7faff;
+    border: 1px solid #d6e4ff;
+    padding: 0;
+}
+
+/* iframe fills host */
+.mini-game-frame{
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+    display: block;
+    background: transparent;
+}
+
+
+/* =========================================================
+   FILTERS PANEL
+   ========================================================= */
+.filters-panel{
+    border-radius: 16px;
+    background: #f6f9ff;
+    border: 1px solid #d6e4ff;
+    overflow: hidden;
+}
+
+.filters-summary{
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    gap: 12px;
+    padding: 12px 14px;
+    cursor: pointer;
+    user-select: none;
+    font-weight: 800;
+    color: #1e3a8a;
+}
+.filters-panel summary::-webkit-details-marker{ display:none; }
+
+.filters-title{ font-weight: 900; }
+
+.filters-note{
+    font-size: 12px;
+    color: #5b6b8c;
+    font-weight: 700;
+}
+
+#filters{
+    padding: 14px;
+    border-top: 1px solid #d6e4ff;
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+}
+
+.filters-grid{
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 14px;
+}
+
+.filter-block{
+    background: #ffffff;
+    border: 1px solid #d6e4ff;
+    border-radius: 16px;
+    padding: 14px;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.filter-title{
+    font-weight: 900;
+    color: #1e3a8a;
+    font-size: 14px;
+    margin: 0;
+}
+
+.filter-hint{
+    margin: 0;
+    font-size: 12px;
+    color: #5b6b8c;
+    line-height: 1.35;
+}
+
+.filter-row{
+    display: grid;
+    grid-template-columns: 72px 1fr 72px 1fr;
+    gap: 10px;
+    align-items: center;
+}
+
+@media (max-width: 420px){
+    .filter-row{ grid-template-columns: 60px 1fr; }
+}
+
+.filter-row label{
+    font-size: 12px;
+    color: #34476b;
+    font-weight: 700;
+}
+
+.filter-row input[type="number"]{
+    width: 100%;
+    padding: 9px 10px;
+    border-radius: 10px;
+    border: 1px solid #c7d7f2;
+    background: #f7faff;
+    color: #24324a;
+    font-size: 14px;
+}
+
+.filter-actions{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+}
+
+.filter-actions button{
+    padding: 10px 14px;
+    border-radius: 999px;
+    border: none;
+    background: #e1ecff;
+    color: #1e3a8a;
+    font-weight: 800;
+    font-size: 13px;
+    cursor: pointer;
+    box-shadow: none;
+    transform: none;
+}
+
+.filter-actions button:hover{
+    background: #d4e4ff;
+    box-shadow: none;
+    filter: none;
+}
+
+/* =========================================================
+   PILLS (TAGS / TYPES)
+   ========================================================= */
+.tag-grid,
+.type-grid{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    max-height: 130px;
+    overflow: auto;
+    padding: 4px 2px;
+}
+
+.pill-check{
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 9px 12px;
+    border-radius: 999px;
+    background: #f7faff;
+    border: 1px solid #c7d7f2;
+    cursor: pointer;
+    user-select: none;
+}
+
+.pill-check:hover{ background: #eef5ff; }
+
+.pill-check input{
+    width: 16px;
+    height: 16px;
+    margin: 0;
+    accent-color: #4f8cff;
+}
+
+.pill-check span{
+    font-size: 13px;
+    font-weight: 800;
+    color: #1f2f4d;
+}
+
+.tag-grid::-webkit-scrollbar,
+.type-grid::-webkit-scrollbar{
+    height: 10px;
+    width: 10px;
+}
+.tag-grid::-webkit-scrollbar-thumb,
+.type-grid::-webkit-scrollbar-thumb{
+    background: rgba(79,140,255,0.25);
+    border-radius: 999px;
+}
+.tag-grid::-webkit-scrollbar-track,
+.type-grid::-webkit-scrollbar-track{
+    background: rgba(0,0,0,0.03);
+    border-radius: 999px;
+}

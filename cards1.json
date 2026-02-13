@@ -1,0 +1,2254 @@
+{
+  "tags": [
+    "quick",
+    "acting",
+    "cooperative",
+    "versus",
+    "fun/playful",
+    "requisities",
+    "active/physical",
+    "memories",
+    "spicy",
+    "hypotheticals",
+    "creative/imagination",
+    "pop_culture/media",
+    "feelings",
+    "relationship",
+    "childhood",
+    "thoughts/opinions",
+    "silly",
+    "rant",
+    "casual",
+    "romantic"
+  ],
+  "cards": [
+    {
+      "text": "Mluv následujících 30 sekund pouze pomocí textů písní.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "tags": ["fun/playful", "silly"]
+    },
+    {
+      "text": "Předveď co nejlepší imitaci zvířete z lesa.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "tags": ["fun/playful", "silly", "acting"]
+    },
+    {
+      "text": "Se zavřenýma očima vyber předmět z místnosti a vymysli s ním vtipný příběh.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "tags": ["fun/playful", "silly", "creative/imagination" ]
+    },
+    {
+      "text": "Spoluhráč vybere předmět z místnosti, vymysli s ním vtipný příběh.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "tags": ["fun/playful", "silly", "creative/imagination" ]
+    },
+    {
+      "text": "Hned teď si spolu udělejte bláznivé selfie.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "tags": ["fun/playful", "silly", "cooperative"]
+    },
+    {
+      "text": "Předstírejte, že jste oba staří lidé a stěžujete si na něco hloupého.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "tags": ["fun/playful", "silly", "acting", "cooperative"]
+    },
+    {
+      "text": "Vydávejte zvířecí zvuky, dokud se náhodou netrefíte na stejný.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "",
+      "tags": ["fun/playful", "silly", "cooperative"]
+    },
+    {
+      "text": "Zahraj co nejdramatičtější scénu smrti.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "tags": ["fun/playful", "silly", "acting"]
+    },
+    {
+      "text": "Předstírejte, že jste televizní moderátoři a informujete o něčem absurdním.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "tags": ["fun/playful", "silly", "acting", "cooperative"]
+    },
+    {
+      "text": "Předstírej, že jsi televizní moderátor a informuj o něčem absurdním.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "tags": ["fun/playful", "silly", "acting"]
+    },
+    {
+      "text": "Pošeptej tajemství… které je úplně vymyšlené.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "",
+      "tags": ["fun/playful", "silly", "creative/imagination"]
+    },
+    {
+      "text": "Zkus rozesmát partnera do 30 sekund — bez dotýkání.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "tags": ["fun/playful", "silly"]
+    },
+    {
+      "text": "Chovejte se jako turisté, kteří tu jsou poprvé.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "tags": ["fun/playful", "silly", "acting", "cooperative"]
+    },
+    {
+      "text": "Chovej se jako turista, který je tu poprvé.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "tags": ["fun/playful", "silly", "acting"]
+    },
+    {
+      "text": "Popiš své oblíbené jídlo, jako by to bylo to nejhorší na světě.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "tags": ["fun/playful", "silly"]
+    },
+    {
+      "text": "Zavři oči a ukaž prstem — popiš, na co ukazuješ.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "tags": ["fun/playful", "silly"]
+    },
+    {
+      "text": "Zahraj zpomalený záběr nějaké běžné činnosti.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "tags": ["fun/playful", "silly", "acting"]
+    },
+    {
+      "text": "Předstírejte, že jste dvě zvířata, která se právě poprvé potkala.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "tags": ["fun/playful", "silly", "acting", "cooperative"]
+    },
+    {
+      "text": "Nakresli druhou osobu za 60 sekund — žádné koukání až do konce.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "tags": ["creative/imagination", "requisities"]
+    },
+    {
+      "text": "Vyber náhodný předmět a popiš ho jako v reklamě na luxusní produkt.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "tags": ["creative/imagination", "silly"]
+    },
+    {
+      "text": "Zahraj scénu z filmu, dokud partner neuhodne, o jaký film jde.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "tags": ["fun/playful", "silly", "acting", "cooperative"]
+    },
+    {
+      "text": "Nakresli zpaměti mapu místa kde jste — pak porovnejte výsledky.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "tags": ["creative/imagination"]
+    },
+    {
+      "text": "Vyprávějte společně příběh, ale každý smí říct vždy jen jedno slovo.",
+      "dificulty": "3",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "tags": ["creative/imagination", "cooperative", "fun/playful", "silly"]
+    },
+    {
+      "text": "Vymysli nový svátek a vysvětli, jak se slaví.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "tags": ["creative/imagination", "fun/playful", "silly"]
+    },
+    {
+      "text": "Vyber náhodné slovo a použij ho v dramatickém filmovém monologu.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "tags": ["creative/imagination", "fun/playful", "silly"]
+    },
+    {
+      "text": "Předstírej, že jsi v kuchařské show a popisuj poslední jídlo, které jsi jedl/a.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "tags": ["acting", "fun/playful", "silly"]
+    },
+    {
+      "text": "Předstírej, že jsi v kuchařské show a popisuj poslední jídlo, které jsi vařil/a.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "tags": ["acting", "fun/playful", "silly"]
+    },
+    {
+      "text": "Vyber předmět a vymysli mu superhrdinský příběh.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "tags": ["creative/imagination", "fun/playful", "silly"]
+    },
+    {
+      "text": "Kresli prstem do vzduchu — partner hádá, co to je.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "tags": ["fun/playful", "silly", "cooperative"]
+    },
+    {
+      "text": "Vymyslete nový sport pouze s předměty z místnosti.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "tags": ["fun/playful", "silly", "cooperative", "creative/imagination"]
+    },
+    {
+      "text": "Vymysli nový sport pouze s předměty z místnosti.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "tags": ["fun/playful", "silly", "creative/imagination"]
+    },
+    {
+      "text": "Vymysli krátký rým o svém partnerovi.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "tags": ["fun/playful", "silly", "creative/imagination"]
+    },
+    {
+      "text": "Vymysli krátký rým o svém partnerovi.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "tags": ["fun/playful", "silly", "creative/imagination"]
+    },
+    {
+      "text": "Popiš partnera jako postavu z videohry.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "tags": ["fun/playful", "silly", "creative/imagination"]
+    },
+    {
+      "text": "Chovej se, jako bys byl/a v romantickém filmovém traileru.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "tags": ["fun/playful", "silly", "acting"]
+    },
+    {
+      "text": "Chovej se, jako bys byl/a v komediálním filmovém traileru.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "tags": ["fun/playful", "silly", "acting"]
+    },
+    {
+      "text": "Chovej se, jako bys byl/a v detektivním filmovém traileru.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "tags": ["fun/playful", "silly", "acting"]
+    },
+    {
+      "text": "Chovej se, jako bys byl/a v hororovém filmovém traileru.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "tags": ["fun/playful", "silly", "acting"]
+    },
+    {
+      "text": "Chovej se, jako bys byl/a v akčním filmovém traileru.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "tags": ["fun/playful", "silly", "acting"]
+    },
+    {
+      "text": "Udělej falešnou reklamu na místo kde zrovna jste.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "tags": ["fun/playful", "silly", "acting"]
+    },
+    {
+      "text": "Vyvažte lžičku na nose — kdo vydrží déle, vyhrává.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "tags": ["fun/playful", "silly", "versus", "active/physical", "requisities"]
+    },
+    {
+      "text": "Postavte věž ze tří náhodných předmětů — kdo je hotový dřív, vyhrává.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "tags": ["fun/playful", "silly", "versus", "active/physical", "requisities"]
+    },
+    {
+      "text": "Najdi v místnosti něco modrého — kdo se vrátí první, vyhrává.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "tags": ["fun/playful", "silly", "versus", "active/physical", "requisities"]
+    },
+    {
+      "text": "Udělejte spolu 10 panáků, ale počítejte legračním hlasem.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "tags": ["fun/playful", "silly", "active/physical", "requisities"]
+    },
+    {
+      "text": "Stůj na jedné noze — kdo vydrží déle, vyhrává.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "tags": ["fun/playful", "silly", "versus","active/physical"]
+    },
+    {
+      "text": "Postavte se zády k sobě a zkuste si sednout bez pádu.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "tags": ["fun/playful", "silly", "cooperative","active/physical"]
+    },
+    {
+      "text": "Zkuste si 20 sekund zrcadlit pohyby toho druhého.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "tags": ["fun/playful", "silly", "cooperative","active/physical"]
+    },
+    {
+      "text": "Zapózujte jako sochy na 20 sekund — žádný smích!",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "tags": ["fun/playful", "silly","active/physical"]
+    },
+    {
+      "text": "Zavaž partnerovi oči a naveď ho ke třem předmětům — musí každý uhodnout.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "tags": ["fun/playful", "silly", "cooperative","active/physical", "requsities"]
+    },
+    {
+      "text": "Stůjte nehnutě a zírejte na sebe — kdo mrkne první, prohrává.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "tags": ["fun/playful", "silly", "versus"]
+    },
+    {
+      "text": "Každý napíše kompliment na papír, vyměníte si je bez koukání a přečtete nahlas.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "special": "romantic",
+      "tags": ["romantic", "feelings", "cooperative", "requisities"]
+    },
+    {
+      "text": "Pochval partnera bez použití slov „hezký“, „roztomilý“ nebo „krásný“.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "tags": ["romantic", "creative/imagination", "feelings"]
+    },
+    {
+      "text": "Popiš druhou osobu jako osobní trenér, který ji maximálně hecuje.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "tags": ["acting", "silly", "fun/playful"]
+    },
+    {
+      "text": "Hádej, na co druhý myslí — po 3 pokusech odhalení.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "tags": ["cooperative"]
+    },
+    {
+      "text": "Každý sdílejte jednu drobnost, která vám nedávno vykouzlila úsměv.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["feelings", "casual"]
+    },
+    {
+      "text": "Vyjmenuj 5 věcí, které se ti líbí na místě, kde jste.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["casual"]
+    },
+    {
+      "text": "Vymyslete týmové jméno pro vás dva a krátký slogan.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "tags": ["creative/imagination", "cooperative", "fun/playful"]
+    },
+    {
+      "text": "Vyjmenuj 3 místa, kam byste chtěli jet společně.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["dreams/future", "casual"]
+    },
+    {
+      "text": "Každý položte jednu otázku, kterou jste se vždy chtěli zeptat.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["casual"]
+    },
+    {
+      "text": "Dej druhé osobě 30 sekundový motivační proslov.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "tags": ["acting", "fun/playful"]
+    },
+    {
+      "text": "Dej druhé osobě 30 sekundový motivační proslov jako jeho osobní trenér.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "tags": ["acting", "fun/playful"]
+    },
+    {
+      "text": "Sdílej jednu vtipnou nebo trapnou vzpomínku (lehkou!).",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["memories", "casual"]
+    },
+    {
+      "text": "Ukonči tuto výzvu plácnutím nebo objetím.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "tags": ["casual"]
+    },
+    {
+      "text": "Ochutnej něco z kuchyně se zavřenýma očima a hádej, co to je.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "tags": ["fun/playful", "requisities", "casual"]
+    },
+    {
+      "text": "Zabroukej melodii a druhý hádá — maximálně 3 pokusy!",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "tags": ["fun/playful", "cooperative"]
+    },
+    {
+      "text": "Mluv 30 sekund v úplně vymyšleném jazyce.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "tags": ["acting", "creative/imagination", "fun/playful", "silly"]
+    },
+    {
+      "text": "Najdi nejměkčí předmět v místnosti a dramaticky ho představ.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "tags": ["acting", "fun/playful", "requisities", "silly"]
+    },
+    {
+      "text": "Předstírejte, že jste odborníci na přežití a vysvětlujete, jak přežít v lese.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "tags": ["acting", "creative/imagination", "cooperative", "fun/playful", "silly"]
+    },
+    {
+      "text": "Předstírej, že jsi odborník na přežití a vysvětluješ, jak přežít v lese.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "tags": ["acting", "creative/imagination", "fun/playful", "sillysilly"]
+    },
+    {
+      "text": "Vyjmenuj 3 písničky, které se hodí k aktuální náladě.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["casual"]
+    },
+    {
+      "text": "Vymyslete podání ruky… a hned ho zapomeňte a zkuste znovu.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "tags": ["fun/playful", "cooperative"]
+    },
+    {
+      "text": "Popiš druhou osobu, jako by byla dezert.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "tags": ["creative/imagination", "fun/playful"]
+    },
+    {
+      "text": "Vymysli bláznivé pravidlo, které musí druhý dodržovat další 2 minuty.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "tags": ["fun/playful"]
+    },
+    {
+      "text": "Vyměňte si role a napodob, jak druhý obvykle chodí nebo sedí.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "tags": ["acting", "fun/playful"]
+    },
+    {
+      "text": "Udržujte oční kontakt po dobu 20 sekund — bez úsměvu.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "tags": ["romantic"]
+    },
+    {
+      "text": "Pošeptej něco, co se ti na druhé osobě líbí.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "special": "romantic",
+      "tags": ["romantic"]
+    },
+    {
+      "text": "Seďte velmi blízko u sebe dalších 30 sekund bez mluvení.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": ["romantic"]
+    },
+    {
+      "text": "Popiš partnera pouze pomocí komplimentů.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": ["romantic"]
+    },
+    {
+      "text": "Zatančete si pomalý tanec po dobu 30 sekund — klidně i bez hudby.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "special": "romantic",
+      "tags": ["romantic", "active/physical", "cooperative"]
+    },
+    {
+      "text": "Popiš do detailu vaše dokonalé rande.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": ["romantic"]
+    },
+    {
+      "text": "Řekni partnerovi, jaký jeho fyzický rys se ti nejvíc líbí.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "special": "romantic",
+      "tags": ["romantic"]
+    },
+    {
+      "text": "Nech partnera vybrat ti roztomilou přezdívku — používej ji další 3 kola.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": ["romantic"]
+    },
+    {
+      "text": "Jemně se dotýkejte rukou a hádejte, který prst je dotýkán.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": ["romantic"]
+    },
+    {
+      "text": "Zopakujte váš první polibek… nebo si představte, jak by proběhl.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "special": "romantic",
+      "tags": ["romantic"]
+    },
+    {
+      "text": "Řekni jednu věc, která ti okamžitě pomáhá cítit se k němu/ní blíž.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": ["romantic", "feelings"]
+    },
+    {
+      "text": "Ukonči tuto výzvu polibkem na tvář (nebo víc, pokud oba chcete 😉).",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "special": "romantic",
+      "tags": ["romantic"]
+    },
+    {
+      "text": "Vyměňte si místa a posaďte se přesně tak, jak seděl ten druhý.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": ["romantic"]
+    },
+    {
+      "text": "Pochval partnera, zatímco stojíte velmi blízko u sebe.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": ["romantic"]
+    },
+    {
+      "text": "Držte se za ruce a společně se třikrát zhluboka nadechněte.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": ["romantic"]
+    },
+    {
+      "text": "Co je maličkost, která tě dokáže nepřiměřeně potěšit?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": ["casual", "feelings"]
+    },
+    {
+      "text": "Jaký drobný zvyk ti zlepšuje den?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["thoughts/opinions", "casual"]
+    },
+    {
+      "text": "Jaká je tvoje oblíbená „comfort“ svačina?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["casual", "thoughts/opinions"]
+    },
+    {
+      "text": "Jaká vůně ti okamžitě zlepší náladu?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["feelings", "casual"]
+    },
+    {
+      "text": "Co je jedna věc, kterou si užíváš víc než většina lidí?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["thoughts/opinions", "casual"]
+    },
+    {
+      "text": "Jaké jednoduché potěšení tě nikdy neomrzí?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["feelings", "casual"]
+    },
+    {
+      "text": "Jaká je nejlepší část tvého běžného dne?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["feelings", "casual"]
+    },
+    {
+      "text": "Na co se každý týden těšíš?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["casual"]
+    },
+    {
+      "text": "Jaké malé vítězství se vždy cítí skvěle?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["feelings", "casual"]
+    },
+    {
+      "text": "Co tě baví i ve chvíli, kdy jsi unavený/á?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["casual", "feelings"]
+    },
+    {
+      "text": "Jakou divnou kombinaci jídla máš tajně rád/a?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["casual", "thoughts/opinions"]
+    },
+    {
+      "text": "Raději bys objevoval/a hluboký les, nebo seděl/a u teplého ohně?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["thoughts/opinions", "hypotheticals", "casual"]
+    },
+    {
+      "text": "Káva, čaj, nebo něco úplně jiného?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["casual", "thoughts/opinions"]
+    },
+    {
+      "text": "Sladké nebo slané svačiny?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["casual", "thoughts/opinions"]
+    },
+    {
+      "text": "Ranní ptáče, nebo noční sova?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["casual", "thoughts/opinions"]
+    },
+    {
+      "text": "Knihy, filmy, nebo hry?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["pop_culture/media", "casual", "thoughts/opinions"]
+    },
+    {
+      "text": "Letní večery, nebo zimní rána?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["casual", "thoughts/opinions"]
+    },
+    {
+      "text": "Vaření doma, nebo objednávání jídla?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["casual", "thoughts/opinions"]
+    },
+    {
+      "text": "Spontánní plány, nebo vše dopředu naplánované?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["thoughts/opinions", "casual"]
+    },
+    {
+      "text": "Psi, kočky, nebo ani jedno?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["casual", "thoughts/opinions"]
+    },
+    {
+      "text": "Kdybys měl/a superschopnost na 10 minut, co bys dělal/a?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["hypotheticals", "creative/imagination", "casual"]
+    },
+    {
+      "text": "Kdybys se mohl/a okamžitě naučit jednu dovednost, jaká by to byla?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["hypotheticals", "thoughts/opinions", "casual"]
+    },
+    {
+      "text": "Kdyby měl dnešek vlastní ústřední píseň, jaký žánr by to byl?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["hypotheticals", "casual"]
+    },
+    {
+      "text": "Kdybys se mohl/a jednou denně teleportovat, kam bys šel/šla?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["hypotheticals", "creative/imagination", "casual"]
+    },
+    {
+      "text": "Kdybys měl/a rok bez povinností, jak bys ho strávil/a?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["hypotheticals", "casual"]
+    },
+    {
+      "text": "Kdybys mohl/a na týden vyzkoušet jakoukoliv práci, jakou bys zvolil/a?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["hypotheticals", "casual"]
+    },
+    {
+      "text": "Kdybys se zítra probudil/a v jiné zemi, kterou by sis přál/a?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["hypotheticals", "casual"]
+    },
+    {
+      "text": "Kdyby byl tvůj den filmem, jak by se jmenoval?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["hypotheticals", "creative/imagination", "fun/playful"]
+    },
+    {
+      "text": "Kdybys mohl/a na hodinu zastavit čas, co bys dělal/a?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["hypotheticals", "casual"]
+    },
+    {
+      "text": "Kdybys si mohl/a na den vyměnit život s někým jiným, kdo by to byl?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["hypotheticals", "casual"]
+    },
+    {
+      "text": "V jakém fiktivním světě bys chtěl/a žít?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["pop_culture/media", "hypotheticals", "casual"]
+    },
+    {
+      "text": "Jakou píseň bys dokázal/a poslouchat pořád dokola?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["pop_culture/media", "casual"]
+    },
+    {
+      "text": "Jaký film si vždy pustíš, když běží v televizi?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["pop_culture/media", "casual"]
+    },
+    {
+      "text": "Jaký seriál je pro tebe takové „comfort“ sledování?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["pop_culture/media", "casual"]
+    },
+    {
+      "text": "Jakou fiktivní postavu bys chtěl/a mít za kamaráda?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["pop_culture/media", "hypotheticals", "casual"]
+    },
+    {
+      "text": "Jakou hru (video nebo deskovou) tě nikdy nepřestane bavit?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["pop_culture/media", "casual"]
+    },
+    {
+      "text": "Jaká píseň ti vždy zlepší náladu?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["pop_culture/media", "casual"]
+    },
+    {
+      "text": "Jakou filmovou hlášku používáš až příliš často?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["pop_culture/media", "fun_silly_playful", "casual"]
+    },
+    {
+      "text": "K jakému žánru se pořád vracíš?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["pop_culture/media", "thoughts/opinions", "casual"]
+    },
+    {
+      "text": "Jaký film všichni milují, ale ty ne?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["pop_culture/media", "thoughts/opinions"]
+    },
+    {
+      "text": "Jak by vypadal tvůj vysněný víkend na chatě?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["hypotheticals", "casual"]
+    },
+    {
+      "text": "Co nejraději děláš, když jsi venku?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["thoughts/opinions", "casual"]
+    },
+    {
+      "text": "Les, hory, jezero, nebo moře?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["casual", "thoughts/opinions"]
+    },
+    {
+      "text": "Jaké je pro tebe ideální počasí?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["thoughts/opinions", "casual"]
+    },
+    {
+      "text": "Čeho si v přírodě vždycky všimneš?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["casual"]
+    },
+    {
+      "text": "Jaká část dne venku je pro tebe nejlepší?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["casual"]
+    },
+    {
+      "text": "Jakou venkovní aktivitu si tajně užíváš?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["thoughts/opinions", "casual"]
+    },
+    {
+      "text": "Co by sis sbalil/a na dokonalý víkendový výlet?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["hypotheticals", "casual"]
+    },
+    {
+      "text": "Táborák, nebo ranní procházka při východu slunce?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["thoughts/opinions", "casual"]
+    },
+    {
+      "text": "Jaký zvuk z přírody máš nejraději?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["casual"]
+    },
+    {
+      "text": "Jaká nejvtipnější věc se ti letos stala?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["memories", "fun/playful", "casual"]
+    },
+    {
+      "text": "Jaký náhodný fakt ti přijde zajímavý?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["thoughts/opinions", "silly", "casual"]
+    },
+    {
+      "text": "Co lidi obvykle překvapí, když se o tobě dozví?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["thoughts/opinions", "casual"]
+    },
+    {
+      "text": "Jaké nejdivnější jídlo jsi kdy ochutnal/a?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["memories", "silly", "casual"]
+    },
+    {
+      "text": "V čem jsi zvláštně dobrý/á?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["thoughts/opinions", "casual"]
+    },
+    {
+      "text": "Jaké slovo se ti líbí, jen kvůli tomu, jak zní?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["silly", "casual"]
+    },
+    {
+      "text": "Jaká maličkost tě vždycky rozčilí?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["rant", "casual"]
+    },
+    {
+      "text": "Co bylo naposledy něco, co tě rozesmálo?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["memories", "fun/playful", "casual"]
+    },
+    {
+      "text": "Jakou dovednost bys přál/a všem lidem?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["hypotheticals", "casual"]
+    },
+    {
+      "text": "Co máš rád/a, ale většina lidí ne?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["thoughts/opinions", "casual"]
+    },
+    {
+      "text": "Co je něco, čeho sis na mně všiml/a jako první — ještě než jsme spolu mluvili?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["romantic", "feelings", "relationship"]
+    },
+    {
+      "text": "Jakým malým způsobem ti zlepšuji den?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["romantic", "feelings", "relationship"]
+    },
+    {
+      "text": "Jaký kompliment bys chtěl/a slyšet častěji?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["romantic", "feelings"]
+    },
+    {
+      "text": "Co na mně oceňuješ, ale možná si to neuvědomuji?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["romantic", "feelings", "relationship"]
+    },
+    {
+      "text": "Kdy se cítíš nejvíc oceňovaný/á?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["feelings", "relationship"]
+    },
+    {
+      "text": "Co dělám, díky čemu se cítíš podporovaný/á?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["feelings", "relationship", "romantic"]
+    },
+    {
+      "text": "Jakou mou vlastnost obdivuješ?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["romantic", "feelings"]
+    },
+    {
+      "text": "Co dělám, co tě vždycky rozesměje?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["fun/playful", "memories", "relationship"]
+    },
+    {
+      "text": "Jaký jednoduchý moment se mnou máš opravdu rád/a?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["romantic", "memories", "feelings"]
+    },
+    {
+      "text": "Za co se v našem vztahu cítíš vděčný/á?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["relationship", "feelings", "romantic"]
+    },
+
+    {
+      "text": "Popiš jednu ze svých oblíbených vzpomínek na nás — velkou nebo malou.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["memories", "romantic", "relationship"]
+    },
+    {
+      "text": "Který moment tě přiměl cítit se se mnou obzvlášť blízko?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["romantic", "feelings", "relationship"]
+    },
+    {
+      "text": "Jaká vzpomínka na nás tě dodnes rozesměje?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["memories", "fun/playful", "relationship"]
+    },
+    {
+      "text": "Kdy sis poprvé uvědomil/a, že s tebou rád/a trávím čas?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["memories", "feelings", "romantic"]
+    },
+    {
+      "text": "Jaký malý moment mezi námi byl překvapivě významný?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["memories", "feelings", "relationship"]
+    },
+    {
+      "text": "Co jsme spolu udělali a rád/a bys to zopakoval/a?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["memories", "romantic", "relationship"]
+    },
+    {
+      "text": "Jaký je tvůj oblíbený obyčejný moment, který jsme spolu zažili?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["memories", "feelings", "romantic"]
+    },
+    {
+      "text": "Jaká vzpomínka na nás je hodně „my“?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["memories", "relationship"]
+    },
+    {
+      "text": "Na jaký moment často vzpomínáš?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["memories", "casual"]
+    },
+    {
+      "text": "Jaká jednoduchá vzpomínka ti zahřála srdce?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["memories", "feelings", "romantic"]
+    },
+
+    {
+      "text": "Co ti pomáhá cítit se někomu blízko?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["feelings", "relationship"]
+    },
+    {
+      "text": "Kdy se se mnou cítíš nejvíc propojený/á?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["romantic", "feelings", "relationship"]
+    },
+    {
+      "text": "Co ti pomáhá cítit se s někým emočně v bezpečí?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["feelings", "relationship"]
+    },
+    {
+      "text": "Co tě okamžitě přiměje cítit se mi blíž?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["romantic", "feelings"]
+    },
+    {
+      "text": "Jak obvykle projevuješ náklonnost?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["feelings", "relationship"]
+    },
+    {
+      "text": "Jaká maličkost ti pomáhá cítit se milovaný/á?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["romantic", "feelings"]
+    },
+    {
+      "text": "Jaké momenty ti dávají pocit největšího spojení?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["feelings", "relationship"]
+    },
+    {
+      "text": "Co ti pomáhá se někomu otevřít?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["feelings", "relationship"]
+    },
+    {
+      "text": "Co pro tebe dělá společný čas smysluplným?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["relationship", "feelings"]
+    },
+    {
+      "text": "Co ti pomáhá cítit se pochopený/á?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["feelings", "relationship"]
+    },
+
+    {
+      "text": "Co bys chtěl/a, abychom letos spolu vyzkoušeli?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["hypotheticals", "romantic", "relationship"]
+    },
+    {
+      "text": "Jakou novou tradici bys chtěl/a jako pár začít?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["romantic", "relationship"]
+    },
+    {
+      "text": "Na čem se těšíš, že to budeme společně budovat?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["romantic", "relationship"]
+    },
+    {
+      "text": "Jaký společný cíl bys chtěl/a, abychom měli?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["hypotheticals", "relationship"]
+    },
+    {
+      "text": "Co doufáš, že spolu jednou zažijeme?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["hypotheticals", "romantic"]
+    },
+    {
+      "text": "Na jaký budoucí moment s námi se těšíš?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["hypotheticals", "romantic"]
+    },
+    {
+      "text": "Jakou maličkost bys chtěl/a udělat naší „věcí“?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["romantic", "relationship"]
+    },
+    {
+      "text": "Jaké vzpomínky bys chtěl/a vytvářet častěji?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["hypotheticals", "romantic"]
+    },
+    {
+      "text": "Co nového bys chtěl/a se mnou objevovat?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["hypotheticals", "romantic"]
+    },
+    {
+      "text": "Jaká budoucí verze „nás“ ti vykouzlí úsměv?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["hypotheticals", "romantic", "feelings"]
+    },
+    {
+      "text": "Co je něco, co máš rád/a, ale myslíš si, že o tom nevím?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["feelings", "relationship"]
+    },
+    {
+      "text": "Co o sobě se mnou rád/a sdílíš?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["feelings", "relationship"]
+    },
+    {
+      "text": "Co ti pomáhá cítit se milovaný/á v těžkých dnech?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["feelings", "romantic"]
+    },
+    {
+      "text": "Co je pro tebe ve vztahu důležité?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["relationship", "thoughts/opinions"]
+    },
+    {
+      "text": "Co by sis přál/a, aby o tobě lidé lépe chápali?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["feelings", "thoughts/opinions"]
+    },
+    {
+      "text": "Jak bych tě mohl/a ještě víc podporovat?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["relationship"]
+    },
+    {
+      "text": "Co ti dává pocit emoční blízkosti?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["feelings", "relationship"]
+    },
+    {
+      "text": "Co pro tebe prohlubuje důvěru?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["relationship", "feelings"]
+    },
+    {
+      "text": "Co ses o sobě díky nám naučil/a?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["relationship", "feelings"]
+    },
+    {
+      "text": "Co ti pomáhá cítit se skutečně viděný/á?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["feelings", "romantic"]
+    },
+
+    {
+      "text": "Kdybys mohl/a naplánovat dokonalé rande, jaké by bylo?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["hypotheticals", "romantic"]
+    },
+    {
+      "text": "Co pro tebe znamená kvalitně strávený čas?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["relationship", "feelings"]
+    },
+    {
+      "text": "Jaké rande ti dává největší pocit propojení?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["romantic", "feelings"]
+    },
+    {
+      "text": "Máš raději spontánní rande, nebo plánované?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["thoughts/opinions", "casual"]
+    },
+    {
+      "text": "Jaký jednoduchý nápad na rande máš opravdu rád/a?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["romantic", "casual"]
+    },
+    {
+      "text": "Jaká atmosféra dělá rande výjimečným?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["romantic", "feelings"]
+    },
+    {
+      "text": "Jaké rande jsme ještě nezažili, ale měli bychom?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["hypotheticals", "romantic"]
+    },
+    {
+      "text": "Jak nejraději trávíš klidný večer spolu?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["romantic", "casual"]
+    },
+    {
+      "text": "Co dělá společný čas výjimečným i v maličkostech?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["relationship", "feelings"]
+    },
+    {
+      "text": "Jaký je tvůj oblíbený způsob, jak zakončit dobré rande?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["romantic", "feelings"]
+    },
+    {
+      "text": "Pověz příběh z dětství spojený s přírodou, kempováním nebo válením se v blátě.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["childhood", "memories", "casual"]
+    },
+    {
+      "text": "Přiznej jeden hloupý strach, který jsi měl/a jako dítě.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["childhood", "silly", "memories"]
+    },
+    {
+      "text": "Sdílej vzpomínku z dětství, která tě dodnes rozesměje.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["childhood", "memories", "fun/playful"]
+    },
+    {
+      "text": "Popiš dramaticky nejhorší večeři, jakou jsi kdy jedl/a.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["silly", "fun/playful"]
+    },
+    {
+      "text": "Sdílej lehce trapný moment, kterému se dnes už směješ.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["memories", "silly", "fun/playful"]
+    },
+    {
+      "text": "Pověz příběh, kdy jsi byl/a stoprocentně přesvědčený/á, že máš pravdu (ale neměl/a).",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["silly", "memories", "casual"]
+    },
+    {
+      "text": "Popiš hru, kterou jsi jako dítě miloval/a.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["memories", "casual"]
+    },
+    {
+      "text": "Pověz příběh o tom, jak ses jako dítě dostal/a do průšvihu.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["memories", "casual"]
+    },
+    {
+      "text": "Popiš své oblíbené místo z dětství.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["memories", "casual"]
+    },
+    {
+      "text": "Sdílej vzpomínku z dětství, která je hodně „ty“.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["memories", "casual"]
+    },
+    {
+      "text": "Pověz něco, čemu jsi jako dítě věřil/a, ale nebyla to pravda.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["memories", "casual"]
+    },
+    {
+      "text": "Popiš svou oblíbenou dětskou dovolenou.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["memories", "casual"]
+    },{
+      "text": "Pověz příběh o své oblíbené hračce nebo věci z dětství.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["memories", "casual"]
+    },
+    {
+      "text": "Pověz o chvíli, kdy ses smál/a tak moc, až ti tekly slzy.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["memories", "fun/playful", "casual"]
+    },
+    {
+      "text": "Sdílej lehce trapný moment, kterému se dnes už směješ.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["memories", "silly", "fun/playful"]
+    },
+    {
+      "text": "Pověz příběh, kdy se všechno pokazilo vtipným způsobem.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["memories", "silly", "fun/playful"]
+    },
+    {
+      "text": "Popiš moment, kdy jsi úplně špatně pochopil/a situaci.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["memories", "silly", "casual"]
+    },
+    {
+      "text": "Pověz o chvíli, kdy jsi řekl/a něco špatného ve špatnou chvíli.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["memories", "silly", "casual"]
+    },
+    {
+      "text": "Sdílej vtipnou chybu, kterou jsi udělal/a víc než jednou.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["memories", "silly", "fun/playful"]
+    },
+    {
+      "text": "Popiš moment, který bys nejraději přetočil/a zpátky — humorná verze.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["memories", "silly", "fun/playful"]
+    },
+    {
+      "text": "Pověz příběh, kdy jsi byl/a stoprocentně přesvědčený/á, že máš pravdu (ale neměl/a).",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["memories", "silly", "fun/playful"]
+    },
+    {
+      "text": "Sdílej vtipný moment, při kterém se dodnes trochu stydíš.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["memories", "silly", "fun/playful"]
+    },
+    {
+      "text": "Sdílej skutečný moment, kdy jsi na sebe byl/a hrdý/á.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["memories", "feelings", "casual"]
+    },
+    {
+      "text": "Pověz o chvíli, kdy jsi sám/sama sebe mile překvapil/a.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["memories", "feelings", "casual"]
+    },
+    {
+      "text": "Popiš moment, kdy se něco těžkého vyplatilo.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["memories", "feelings"]
+    },
+    {
+      "text": "Sdílej malé vítězství, které pro tebe hodně znamenalo.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["memories", "feelings"]
+    },
+    {
+      "text": "Pověz příběh o tom, jak jsi někomu nečekaně pomohl/a.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["memories", "feelings"]
+    },
+    {
+      "text": "Popiš moment, kdy ses cítil/a sebejistě.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["feelings", "casual"]
+    },
+    {
+      "text": "Sdílej něco, v čem ses postupem času zlepšil/a.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["memories", "thoughts/opinions"]
+    },
+    {
+      "text": "Pověz o chvíli, kdy jsi vystoupil/a ze své komfortní zóny.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["memories", "feelings"]
+    },
+    {
+      "text": "Popiš moment, který jsi zvládl/a lépe než tvoje minulá verze.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["memories", "feelings"]
+    },
+    {
+      "text": "Sdílej chvíli, kdy sis řekl/a: „Zvládl/a jsem to.“",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["memories", "feelings"]
+    },
+
+    {
+      "text": "Řekni první myšlenku, kterou jsi měl/a dnes ráno (bez filtrování).",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["casual", "thoughts/opinions"]
+    },
+    {
+      "text": "Sdílej myšlenku, která ti často náhodně naskočí.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["casual", "thoughts/opinions"]
+    },
+    {
+      "text": "Řekni něco, co máš poslední dobou na mysli.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["feelings", "casual"]
+    },
+    {
+      "text": "Pověz úplně náhodné pozorování z poslední doby.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["casual", "silly"]
+    },
+    {
+      "text": "Popiš poslední věc, kterou jsi googlil/a.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["casual", "silly"]
+    },
+    {
+      "text": "Sdílej myšlenku, která tě dnes přiměla se zastavit.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["feelings", "casual"]
+    },
+    {
+      "text": "Pověz drobnost, která tě nedávno rozptýlila.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["casual", "silly"]
+    },
+    {
+      "text": "Popiš svou aktuální náladu jako scénu z filmu.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["creative/imagination", "feelings"]
+    },
+    {
+      "text": "Řekni myšlenku, kterou jsi ještě nikdy neřekl/a nahlas.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["feelings", "thoughts/opinions"]
+    },
+    {
+      "text": "Sdílej myšlenku, která ti vždy vykouzlí úsměv.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["feelings", "casual"]
+    },
+    {
+      "text": "Vysvětli trend, kterému absolutně nerozumíš.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["rant", "thoughts/opinions", "casual"]
+    },
+    {
+      "text": "Popiš něco, co všichni milují, ale ty ne.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["thoughts/opinions", "casual"]
+    },
+    {
+      "text": "Pověz o zvyku, který tě zvláštně rozčiluje.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["rant", "casual"]
+    },
+    {
+      "text": "Vysvětli něco, o čem bys dokázal/a mluvit hrozně dlouho.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["thoughts/opinions", "casual"]
+    },
+    {
+      "text": "Popiš pravidlo, které ti nedává smysl.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["rant", "thoughts/opinions"]
+    },
+    {
+      "text": "Pověz o maličkosti, která tě iracionálně štve.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["rant", "casual"]
+    },
+    {
+      "text": "Sdílej názor, o kterém víš, že je nepopulární, ale neškodný.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["thoughts/opinions", "casual"]
+    },
+    {
+      "text": "Vysvětli trend, který si tajně užíváš, ale nepřiznáš to.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["silly", "thoughts/opinions", "casual"]
+    },
+    {
+      "text": "Pověz o filmu nebo seriálu, který je podle tebe přeceňovaný.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["pop_culture/media", "thoughts/opinions"]
+    },
+    {
+      "text": "Popiš něco, co by si podle tebe zasloužilo víc uznání.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["thoughts/opinions", "casual"]
+    },
+    {
+      "text": "Popiš moment, kdy sis poprvé pomyslel/a, že jsem roztomilý/á — pokud vůbec ;)",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["romantic", "feelings", "relationship"]
+    },
+    {
+      "text": "Pověz příběh o něčem, co jsem udělal/a a co tě rozesmálo.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["memories", "fun/playful", "relationship"]
+    },
+    {
+      "text": "Popiš moment se mnou, který tě překvapil.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["memories", "feelings", "relationship"]
+    },
+    {
+      "text": "Pověz o chvíli, kdy jsem tě nečekaně rozesmál/a.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["memories", "fun/playful", "relationship"]
+    },
+    {
+      "text": "Sdílej svůj první dojem ze mě — upřímně, ale mile.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["feelings", "relationship", "romantic"]
+    },
+    {
+      "text": "Popiš malý moment se mnou, který ti utkvěl v paměti.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["memories", "relationship", "feelings"]
+    },
+    {
+      "text": "Pověz o něčem, co jsme spolu dělali a bylo to výjimečné.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["memories", "romantic", "relationship"]
+    },
+    {
+      "text": "Popiš moment, kdy ses se mnou cítil/a v pohodě.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["feelings", "relationship"]
+    },
+    {
+      "text": "Pověz o něčem, co dělám a přijde ti to vtipné.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["fun/playful", "relationship"]
+    },
+    {
+      "text": "Sdílej moment se mnou, který byl nečekaně hezký.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": ["romantic", "feelings", "relationship"]
+    },
+    {
+      "text": "Bludiště",
+      "url": "./mini-games/maze",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "game",
+      "special": "game",
+      "tags": ["fun/playful"]
+    },
+    {
+      "text": "Pong",
+      "url": "./mini-games/pong",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "game",
+      "special": "game",
+      "tags": ["fun/playful"]
+    },
+    {
+      "text": "Tanky",
+      "url": "./mini-games/tanks",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "game",
+      "special": "game",
+      "tags": ["fun/playful"]
+    },
+    {
+      "text": "Piškvorky",
+      "url": "./mini-games/tic",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "game",
+      "special": "game",
+      "tags": ["fun/playful"]
+    },
+    {
+      "text": "Tron",
+      "url": "./mini-games/tron",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "game",
+      "special": "game",
+      "tags": ["fun/playful"]
+    }
+  ]
+}

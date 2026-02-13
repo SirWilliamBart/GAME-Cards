@@ -1,0 +1,6963 @@
+{
+  "tags": [
+    "quick",
+    "acting",
+    "cooperative",
+    "versus",
+    "fun/playful",
+    "requisities",
+    "active/physical",
+    "memories",
+    "spicy",
+    "hypotheticals",
+    "creative/imagination",
+    "pop_culture/media",
+    "feelings",
+    "relationship",
+    "childhood",
+    "thoughts/opinions",
+    "silly",
+    "rant",
+    "casual",
+    "romantic"
+  ],
+  "cards": [
+    {
+      "text": "I dare you to Stand up for 2 turns",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "active/physical",
+        "fun/playful",
+        "quick"
+      ]
+    },
+    {
+      "text": "I dare you to do 10 pushups with one hand in less than a minute",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "active/physical",
+        "fun/playful"
+      ]
+    },
+    {
+      "text": "What actor/actress do you prefer?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "acting",
+        "casual",
+        "pop_culture/media",
+        "quick",
+        "thoughts/opinions"
+      ]
+    },
+    {
+      "text": "Who is your secret crush?",
+      "dificulty": "3",
+      "players": "2",
+      "spice": "3",
+      "type": "question",
+      "tags": [
+        "casual",
+        "quick",
+        "relationship",
+        "romantic"
+      ]
+    },
+    {
+      "text": "What is the most disgusting thing you've ever done?",
+      "dificulty": "0",
+      "players": "2",
+      "spice": "0",
+      "type": "question",
+      "tags": [
+        "casual",
+        "feelings",
+        "memories",
+        "thoughts/opinions"
+      ]
+    },
+    {
+      "text": "I dare you to do a headstand for 2 mins",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "active/physical",
+        "fun/playful",
+        "relationship"
+      ]
+    },
+    {
+      "text": "What is your biggest fear in a relationship?",
+      "dificulty": "3",
+      "players": "2",
+      "spice": "3",
+      "type": "question",
+      "tags": [
+        "casual",
+        "feelings",
+        "relationship",
+        "thoughts/opinions"
+      ]
+    },
+    {
+      "text": "What was your funniest first date ever?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "memories",
+        "relationship",
+        "romantic"
+      ]
+    },
+    {
+      "text": "What is your biggest turn off in a partner?",
+      "dificulty": "3",
+      "players": "2",
+      "spice": "3",
+      "type": "question",
+      "tags": [
+        "casual",
+        "feelings",
+        "relationship",
+        "thoughts/opinions"
+      ]
+    },
+    {
+      "text": "What is your weirdest habit?",
+      "dificulty": "0",
+      "players": "2",
+      "spice": "0",
+      "type": "question",
+      "tags": [
+        "casual",
+        "quick"
+      ]
+    },
+    {
+      "text": "How many kids would you like to have?",
+      "dificulty": "3",
+      "players": "2",
+      "spice": "3",
+      "type": "question",
+      "tags": [
+        "casual",
+        "childhood"
+      ]
+    },
+    {
+      "text": "What is the perfect first day?",
+      "dificulty": "3",
+      "players": "2",
+      "spice": "3",
+      "type": "question",
+      "tags": [
+        "casual",
+        "quick"
+      ]
+    },
+    {
+      "text": "What is one embarrassing fact I should know about you?",
+      "dificulty": "0",
+      "players": "2",
+      "spice": "0",
+      "type": "question",
+      "tags": [
+        "acting",
+        "casual",
+        "feelings",
+        "thoughts/opinions"
+      ]
+    },
+    {
+      "text": "What was your childhood nickname?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "childhood",
+        "memories",
+        "quick"
+      ]
+    },
+    {
+      "text": "What is your favourite movie?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "pop_culture/media",
+        "quick",
+        "thoughts/opinions"
+      ]
+    },
+    {
+      "text": "Describe your worst date ever?",
+      "dificulty": "3",
+      "players": "2",
+      "spice": "3",
+      "type": "question",
+      "tags": [
+        "casual",
+        "feelings",
+        "memories",
+        "quick",
+        "relationship",
+        "romantic",
+        "thoughts/opinions"
+      ]
+    },
+    {
+      "text": "If there was no such thing as money, what would you do with your life?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "creative/imagination",
+        "hypotheticals"
+      ]
+    },
+    {
+      "text": "What is your favourite food?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "quick",
+        "thoughts/opinions"
+      ]
+    },
+    {
+      "text": "What are your three favourite colours, and why?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "thoughts/opinions"
+      ]
+    },
+    {
+      "text": "What is your dream job?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "quick",
+        "thoughts/opinions"
+      ]
+    },
+    {
+      "text": "If you were trapped on an island for 3 days, what would you take with you?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "creative/imagination",
+        "hypotheticals"
+      ]
+    },
+    {
+      "text": "Who is your favourite person and why?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "thoughts/opinions"
+      ]
+    },
+    {
+      "text": "Do you prefer apple or android?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "quick",
+        "thoughts/opinions"
+      ]
+    },
+    {
+      "text": "How do you put your toilet paper on the roll?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": [
+        "casual"
+      ]
+    },
+    {
+      "text": "What is your best talent?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "feelings",
+        "memories",
+        "quick",
+        "thoughts/opinions"
+      ]
+    },
+    {
+      "text": "Do you believe in love at first sight?",
+      "dificulty": "3",
+      "players": "2",
+      "spice": "3",
+      "type": "question",
+      "tags": [
+        "casual",
+        "feelings",
+        "relationship",
+        "romantic",
+        "thoughts/opinions"
+      ]
+    },
+    {
+      "text": "Do you believe in love at all?",
+      "dificulty": "3",
+      "players": "2",
+      "spice": "3",
+      "type": "question",
+      "tags": [
+        "casual",
+        "feelings",
+        "quick",
+        "relationship",
+        "romantic",
+        "thoughts/opinions"
+      ]
+    },
+    {
+      "text": "What is your dream wedding?",
+      "dificulty": "3",
+      "players": "2",
+      "spice": "3",
+      "type": "question",
+      "tags": [
+        "casual",
+        "quick",
+        "relationship",
+        "romantic",
+        "thoughts/opinions"
+      ]
+    },
+    {
+      "text": "Would you ever consider being a nudist?",
+      "dificulty": "3",
+      "players": "2",
+      "spice": "3",
+      "type": "question",
+      "tags": [
+        "casual",
+        "memories"
+      ]
+    },
+    {
+      "text": "How do you feel about end pieces of a loaf of bread?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": [
+        "casual",
+        "feelings",
+        "thoughts/opinions"
+      ]
+    },
+    {
+      "text": "Can you touch your tongue to your nose?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": [
+        "casual",
+        "silly"
+      ]
+    },
+    {
+      "text": "If you could take away one bad thing in the world, what would it be?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "creative/imagination",
+        "hypotheticals"
+      ]
+    },
+    {
+      "text": "What is your guilty pleasure?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "feelings",
+        "quick",
+        "thoughts/opinions"
+      ]
+    },
+    {
+      "text": "What is the most exotic food that you have ever eaten?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "memories"
+      ]
+    },
+    {
+      "text": "What country would like to live in if you had the chance?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual"
+      ]
+    },
+    {
+      "text": "If you could change one thing on your body, what would it be?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "creative/imagination",
+        "hypotheticals"
+      ]
+    },
+    {
+      "text": "What do you daydream about the most?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "thoughts/opinions"
+      ]
+    },
+    {
+      "text": "Describe the weirdest dream you’ve ever had?",
+      "dificulty": "0",
+      "players": "2",
+      "spice": "0",
+      "type": "question",
+      "tags": [
+        "casual",
+        "memories",
+        "thoughts/opinions"
+      ]
+    },
+    {
+      "text": "Can you lick your elbow?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": [
+        "casual",
+        "quick",
+        "silly"
+      ]
+    },
+    {
+      "text": "What is your favourite season of the year?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "thoughts/opinions"
+      ]
+    },
+    {
+      "text": "Could you go a week without junk food?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual"
+      ]
+    },
+    {
+      "text": "How was your first kiss?",
+      "dificulty": "3",
+      "players": "2",
+      "spice": "3",
+      "type": "question",
+      "tags": [
+        "casual",
+        "memories",
+        "quick",
+        "relationship",
+        "romantic"
+      ]
+    },
+    {
+      "text": "Describe your worst kiss ever?",
+      "dificulty": "3",
+      "players": "2",
+      "spice": "3",
+      "type": "question",
+      "tags": [
+        "casual",
+        "feelings",
+        "memories",
+        "quick",
+        "relationship",
+        "romantic",
+        "thoughts/opinions"
+      ]
+    },
+    {
+      "text": "Do you like to exercise?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "active/physical",
+        "casual",
+        "quick"
+      ]
+    },
+    {
+      "text": "Do an impression of your favorite celebrity",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "acting",
+        "fun/playful",
+        "pop_culture/media",
+        "thoughts/opinions"
+      ]
+    },
+    {
+      "text": "Close your eyes and send a blind text to a random person",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "tags": [
+        "fun/playful"
+      ]
+    },
+    {
+      "text": "Go grab a broom and do your best tango",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "active/physical",
+        "feelings",
+        "fun/playful",
+        "memories",
+        "requisities",
+        "thoughts/opinions"
+      ]
+    },
+    {
+      "text": "Give a 3 minute stand-up comedy routine",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "acting",
+        "fun/playful",
+        "quick"
+      ]
+    },
+    {
+      "text": "Break dance",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "active/physical",
+        "fun/playful",
+        "quick"
+      ]
+    },
+    {
+      "text": "Make up a story about the item to your right",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "creative/imagination",
+        "fun/playful"
+      ]
+    },
+    {
+      "text": "Sing the alphabet without moving your mouth",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "acting",
+        "fun/playful"
+      ]
+    },
+    {
+      "text": "Do your best president impression",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "acting",
+        "feelings",
+        "fun/playful",
+        "memories",
+        "quick",
+        "thoughts/opinions"
+      ]
+    },
+    {
+      "text": "Yell out the first word that comes to your mind right now",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "tags": [
+        "fun/playful"
+      ]
+    },
+    {
+      "text": "Call the pizza place and order 300 sardine pizzas",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "tags": [
+        "fun/playful"
+      ]
+    },
+    {
+      "text": "Pound on your chest and act like a gorilla for the next minute",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "acting",
+        "fun/playful",
+        "silly"
+      ]
+    },
+    {
+      "text": "Sing everything you say for the next 10 minutes",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "acting",
+        "fun/playful",
+        "memories",
+        "quick"
+      ]
+    },
+    {
+      "text": "Give a foot massage",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "fun/playful",
+        "quick",
+        "relationship"
+      ]
+    },
+    {
+      "text": "Say the alphabet backwards in 15 seconds",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "fun/playful",
+        "quick"
+      ]
+    },
+    {
+      "text": "Go to the neighbour’s house and ask for a banana",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "tags": [
+        "fun/playful",
+        "requisities"
+      ]
+    },
+    {
+      "text": "Go up to someone random and ask for a hug",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "tags": [
+        "cooperative",
+        "fun/playful",
+        "relationship"
+      ]
+    },
+    {
+      "text": "Set your cell phone language to Chinese for the next 10 minutes",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "tags": [
+        "creative/imagination",
+        "fun/playful",
+        "quick",
+        "requisities"
+      ]
+    },
+    {
+      "text": "Act like your favourite Disney character for the rest of the game",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "acting",
+        "fun/playful",
+        "pop_culture/media",
+        "thoughts/opinions"
+      ]
+    },
+    {
+      "text": "Sing “Twinkle Twinkle, Little Star” while beat boxing",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "acting",
+        "creative/imagination",
+        "fun/playful"
+      ]
+    },
+    {
+      "text": "Give a concert with your air guitar",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "active/physical",
+        "fun/playful",
+        "quick"
+      ]
+    },
+    {
+      "text": "Make a poem using the words orange and moose",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "acting",
+        "creative/imagination",
+        "fun/playful",
+        "silly"
+      ]
+    },
+    {
+      "text": "Unbuckle your own belt using your elbows",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "acting",
+        "fun/playful",
+        "requisities",
+        "silly"
+      ]
+    },
+    {
+      "text": "Brush someone else’s teeth",
+      "dificulty": "0",
+      "players": "2",
+      "spice": "0",
+      "type": "challenge",
+      "tags": [
+        "cooperative",
+        "fun/playful",
+        "quick",
+        "relationship"
+      ]
+    },
+    {
+      "text": "Twerk for a minute",
+      "dificulty": "3",
+      "players": "2",
+      "spice": "3",
+      "type": "challenge",
+      "tags": [
+        "active/physical",
+        "fun/playful",
+        "quick"
+      ]
+    },
+    {
+      "text": "Belly dance to a country song",
+      "dificulty": "3",
+      "players": "2",
+      "spice": "3",
+      "type": "challenge",
+      "tags": [
+        "active/physical",
+        "creative/imagination",
+        "fun/playful",
+        "quick"
+      ]
+    },
+    {
+      "text": "Make up a country song of the top of your head",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "creative/imagination",
+        "fun/playful",
+        "relationship"
+      ]
+    },
+    {
+      "text": "Get on all fours and act like a dog until your next turn",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "acting",
+        "active/physical",
+        "fun/playful",
+        "silly"
+      ]
+    },
+    {
+      "text": "Make up a short rap about another player",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "cooperative",
+        "creative/imagination",
+        "fun/playful",
+        "relationship"
+      ]
+    },
+    {
+      "text": "Act like Romeo from “Romeo and Juliet” (pick who you want to be Juliet)",
+      "dificulty": "3",
+      "players": "2",
+      "spice": "3",
+      "type": "challenge",
+      "tags": [
+        "acting",
+        "fun/playful",
+        "pop_culture/media"
+      ]
+    },
+    {
+      "text": "Do an impression of someone until another player can guess who you are",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "acting",
+        "cooperative",
+        "fun/playful",
+        "relationship",
+        "versus"
+      ]
+    },
+    {
+      "text": "Say “ya heard meh” after everything you say for the next 5 minutes",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "fun/playful",
+        "memories",
+        "quick"
+      ]
+    },
+    {
+      "text": "Act like you do not understand your own language until your next turn (come up with your own language)",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "tags": [
+        "acting",
+        "creative/imagination",
+        "fun/playful"
+      ]
+    },
+    {
+      "text": "Use the letters of the name of another player to describe them (ex. SAM : S – Silly ; A – Attractive ; M – Merry)",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "acting",
+        "cooperative",
+        "fun/playful",
+        "relationship"
+      ]
+    },
+    {
+      "text": "Only use sign language for the next round",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "creative/imagination",
+        "fun/playful"
+      ]
+    },
+    {
+      "text": "Do pushups until it’s your turn again",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "active/physical",
+        "fun/playful"
+      ]
+    },
+    {
+      "text": "Wear a finger moustache for the next 5 minutes",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "fun/playful",
+        "quick",
+        "silly"
+      ]
+    },
+    {
+      "text": "Only use your elbows and knees to go make a sandwich",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "fun/playful",
+        "requisities",
+        "silly"
+      ]
+    },
+    {
+      "text": "Write a Facebook (or other social media) post only using your toes",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "tags": [
+        "acting",
+        "fun/playful",
+        "requisities"
+      ]
+    },
+    {
+      "text": "Take a selfie with the toilet and post it online",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "fun/playful",
+        "requisities"
+      ]
+    },
+    {
+      "text": "Paint your toenails only using your teeth",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "tags": [
+        "acting",
+        "fun/playful",
+        "requisities"
+      ]
+    },
+    {
+      "text": "What was your best sexual experience?",
+      "dificulty": "4",
+      "players": "2",
+      "spice": "4",
+      "type": "question",
+      "tags": [
+        "casual",
+        "feelings",
+        "memories",
+        "relationship",
+        "spicy",
+        "thoughts/opinions"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "What is the longest you’ve ever given head?",
+      "dificulty": "5",
+      "players": "2",
+      "spice": "5",
+      "type": "question",
+      "tags": [
+        "casual",
+        "memories",
+        "relationship",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "Would you ever do a 3-some?",
+      "dificulty": "5",
+      "players": "2",
+      "spice": "5",
+      "type": "question",
+      "tags": [
+        "casual",
+        "memories",
+        "quick",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "How do you feel about sex in groups?",
+      "dificulty": "5",
+      "players": "2",
+      "spice": "5",
+      "type": "question",
+      "tags": [
+        "casual",
+        "feelings",
+        "relationship",
+        "spicy",
+        "thoughts/opinions"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "Would you ever watch your partner have sex with someone else?",
+      "dificulty": "5",
+      "players": "2",
+      "spice": "5",
+      "type": "question",
+      "tags": [
+        "casual",
+        "memories",
+        "relationship",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "How many partners have you had at one time?",
+      "dificulty": "5",
+      "players": "2",
+      "spice": "5",
+      "type": "question",
+      "tags": [
+        "casual",
+        "relationship",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "Describe how you orgasim feels?",
+      "dificulty": "5",
+      "players": "2",
+      "spice": "5",
+      "type": "question",
+      "tags": [
+        "casual",
+        "feelings",
+        "quick",
+        "spicy",
+        "thoughts/opinions"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "Where is your favourite place to be kissed?",
+      "dificulty": "4",
+      "players": "2",
+      "spice": "4",
+      "type": "question",
+      "tags": [
+        "casual",
+        "relationship",
+        "spicy",
+        "thoughts/opinions"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "Have you ever taken it in the butt or would you?",
+      "dificulty": "5",
+      "players": "2",
+      "spice": "5",
+      "type": "question",
+      "tags": [
+        "casual",
+        "memories",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "What is the longest time you’ve gone without sex?",
+      "dificulty": "4",
+      "players": "2",
+      "spice": "4",
+      "type": "question",
+      "tags": [
+        "casual",
+        "relationship",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "Do you enjoy rough or slow sex?",
+      "dificulty": "5",
+      "players": "2",
+      "spice": "5",
+      "type": "question",
+      "tags": [
+        "casual",
+        "quick",
+        "relationship",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "Do you prefer to be on top or bottom?",
+      "dificulty": "4",
+      "players": "2",
+      "spice": "4",
+      "type": "question",
+      "tags": [
+        "casual",
+        "spicy",
+        "thoughts/opinions"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "What is your favourite position?",
+      "dificulty": "4",
+      "players": "2",
+      "spice": "4",
+      "type": "question",
+      "tags": [
+        "casual",
+        "quick",
+        "spicy",
+        "thoughts/opinions"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "Do you like anal?",
+      "dificulty": "5",
+      "players": "2",
+      "spice": "5",
+      "type": "question",
+      "tags": [
+        "casual",
+        "quick",
+        "relationship",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "What is your least favourite position?",
+      "dificulty": "5",
+      "players": "2",
+      "spice": "5",
+      "type": "question",
+      "tags": [
+        "casual",
+        "rant",
+        "spicy",
+        "thoughts/opinions"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "What is the worst sexual experience you’ve ever had?",
+      "dificulty": "5",
+      "players": "2",
+      "spice": "5",
+      "type": "question",
+      "tags": [
+        "casual",
+        "feelings",
+        "memories",
+        "relationship",
+        "spicy",
+        "thoughts/opinions"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "Have you ever had sex outside?",
+      "dificulty": "5",
+      "players": "2",
+      "spice": "5",
+      "type": "question",
+      "tags": [
+        "casual",
+        "memories",
+        "quick",
+        "relationship",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "Where is the strangest place you’ve ever had sex?",
+      "dificulty": "5",
+      "players": "2",
+      "spice": "5",
+      "type": "question",
+      "tags": [
+        "casual",
+        "memories",
+        "relationship",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "Have you ever performed oral on someone of the same sex?",
+      "dificulty": "5",
+      "players": "2",
+      "spice": "5",
+      "type": "question",
+      "tags": [
+        "casual",
+        "memories",
+        "relationship",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "Have you ever paid for sex?",
+      "dificulty": "4",
+      "players": "2",
+      "spice": "4",
+      "type": "question",
+      "tags": [
+        "casual",
+        "memories",
+        "quick",
+        "relationship",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "Who was your first partner?",
+      "dificulty": "4",
+      "players": "2",
+      "spice": "4",
+      "type": "question",
+      "tags": [
+        "casual",
+        "quick",
+        "relationship",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "Have you ever made a video of yourself?",
+      "dificulty": "4",
+      "players": "2",
+      "spice": "4",
+      "type": "question",
+      "tags": [
+        "casual",
+        "memories",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "Who is your favourite porn star?",
+      "dificulty": "4",
+      "players": "2",
+      "spice": "4",
+      "type": "question",
+      "tags": [
+        "casual",
+        "pop_culture/media",
+        "quick",
+        "spicy",
+        "thoughts/opinions"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "What is your favourite type of porn?",
+      "dificulty": "4",
+      "players": "2",
+      "spice": "4",
+      "type": "question",
+      "tags": [
+        "casual",
+        "pop_culture/media",
+        "spicy",
+        "thoughts/opinions"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "What is your favourite strip club?",
+      "dificulty": "4",
+      "players": "2",
+      "spice": "4",
+      "type": "question",
+      "tags": [
+        "casual",
+        "quick",
+        "relationship",
+        "spicy",
+        "thoughts/opinions"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "Have you ever thought about being a stripper?",
+      "dificulty": "4",
+      "players": "2",
+      "spice": "4",
+      "type": "question",
+      "tags": [
+        "casual",
+        "memories",
+        "relationship",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "Do you prefer the lights on or off?",
+      "dificulty": "4",
+      "players": "2",
+      "spice": "4",
+      "type": "question",
+      "tags": [
+        "casual",
+        "quick",
+        "spicy",
+        "thoughts/opinions"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "Does size matter?",
+      "dificulty": "4",
+      "players": "2",
+      "spice": "4",
+      "type": "question",
+      "tags": [
+        "casual",
+        "quick",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "Do you prefer to have music in the background, or for it to be quiet?",
+      "dificulty": "4",
+      "players": "2",
+      "spice": "4",
+      "type": "question",
+      "tags": [
+        "casual",
+        "spicy",
+        "thoughts/opinions"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "Do you prefer for your partner to be silent, or do you like moans?",
+      "dificulty": "4",
+      "players": "2",
+      "spice": "4",
+      "type": "question",
+      "tags": [
+        "casual",
+        "relationship",
+        "spicy",
+        "thoughts/opinions"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "Do you like a lot of foreplay?",
+      "dificulty": "4",
+      "players": "2",
+      "spice": "4",
+      "type": "question",
+      "tags": [
+        "casual",
+        "quick",
+        "relationship",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "What is your favourite type of foreplay?",
+      "dificulty": "4",
+      "players": "2",
+      "spice": "4",
+      "type": "question",
+      "tags": [
+        "casual",
+        "relationship",
+        "spicy",
+        "thoughts/opinions"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "Have you done role-playing?",
+      "dificulty": "4",
+      "players": "2",
+      "spice": "4",
+      "type": "question",
+      "tags": [
+        "acting",
+        "casual",
+        "quick",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "What is your role-playing fantasy?",
+      "dificulty": "4",
+      "players": "2",
+      "spice": "4",
+      "type": "question",
+      "tags": [
+        "acting",
+        "casual",
+        "quick",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "What is your “sweet spot”?",
+      "dificulty": "5",
+      "players": "2",
+      "spice": "5",
+      "type": "question",
+      "tags": [
+        "casual",
+        "quick",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "What is your strangest sexual fantasy?",
+      "dificulty": "5",
+      "players": "2",
+      "spice": "5",
+      "type": "question",
+      "tags": [
+        "casual",
+        "relationship",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "Would you ever have sex for money?",
+      "dificulty": "5",
+      "players": "2",
+      "spice": "5",
+      "type": "question",
+      "tags": [
+        "casual",
+        "memories",
+        "quick",
+        "relationship",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "How flexible are you?",
+      "dificulty": "3",
+      "players": "2",
+      "spice": "3",
+      "type": "question",
+      "tags": [
+        "casual",
+        "quick"
+      ]
+    },
+    {
+      "text": "How many orgasms have you had in one sexual encounter?",
+      "dificulty": "5",
+      "players": "2",
+      "spice": "5",
+      "type": "question",
+      "tags": [
+        "casual",
+        "relationship",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "Spit or Swallow?",
+      "dificulty": "5",
+      "players": "2",
+      "spice": "5",
+      "type": "question",
+      "tags": [
+        "casual",
+        "quick",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "Get on the table (or in the middle/front) and do a strip tease",
+      "dificulty": "4",
+      "players": "2",
+      "spice": "4",
+      "type": "challenge",
+      "tags": [
+        "active/physical",
+        "fun/playful",
+        "relationship",
+        "requisities",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "Tie a cherry stem with your tongue",
+      "dificulty": "4",
+      "players": "2",
+      "spice": "4",
+      "type": "challenge",
+      "tags": [
+        "fun/playful",
+        "quick",
+        "requisities",
+        "silly",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "With clothes on (for now) top your partner and start riding",
+      "dificulty": "4",
+      "players": "2",
+      "spice": "4",
+      "type": "challenge",
+      "tags": [
+        "cooperative",
+        "fun/playful",
+        "relationship",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "Twerk in only your underwear",
+      "dificulty": "4",
+      "players": "2",
+      "spice": "4",
+      "type": "challenge",
+      "tags": [
+        "active/physical",
+        "fun/playful",
+        "quick",
+        "requisities",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "Lick your partner (or person to your left) from their neck all the way to the brim or their underwear",
+      "dificulty": "4",
+      "players": "2",
+      "spice": "4",
+      "type": "challenge",
+      "tags": [
+        "cooperative",
+        "fun/playful",
+        "relationship",
+        "requisities",
+        "silly",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "Suck on your partner’s belly button for a minute",
+      "dificulty": "4",
+      "players": "2",
+      "spice": "4",
+      "type": "challenge",
+      "tags": [
+        "cooperative",
+        "fun/playful",
+        "relationship",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "Lick or suck on the nipples of your partner for a minute",
+      "dificulty": "5",
+      "players": "2",
+      "spice": "5",
+      "type": "challenge",
+      "tags": [
+        "cooperative",
+        "fun/playful",
+        "relationship",
+        "silly",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "Unwrap a piece of candy in your mouth",
+      "dificulty": "4",
+      "players": "2",
+      "spice": "4",
+      "type": "challenge",
+      "tags": [
+        "creative/imagination",
+        "fun/playful",
+        "requisities",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "Put a wrapped piece of candy in your mouth and then unwrap it with your partner",
+      "dificulty": "4",
+      "players": "2",
+      "spice": "4",
+      "type": "challenge",
+      "tags": [
+        "cooperative",
+        "creative/imagination",
+        "fun/playful",
+        "relationship",
+        "requisities",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "Take off your partner’s underwear using only your teeth",
+      "dificulty": "5",
+      "players": "2",
+      "spice": "5",
+      "type": "challenge",
+      "tags": [
+        "acting",
+        "cooperative",
+        "fun/playful",
+        "relationship",
+        "requisities",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "Kiss your partner all around their “down-low” area (not the actual part tough)",
+      "dificulty": "5",
+      "players": "2",
+      "spice": "5",
+      "type": "challenge",
+      "tags": [
+        "acting",
+        "cooperative",
+        "fun/playful",
+        "relationship",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "Put your hand down your partner’s pants until the next round",
+      "dificulty": "5",
+      "players": "2",
+      "spice": "5",
+      "type": "challenge",
+      "tags": [
+        "cooperative",
+        "fun/playful",
+        "relationship",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "Make out with the person to the right of you (if okay with your partner :])",
+      "dificulty": "4",
+      "players": "2",
+      "spice": "4",
+      "type": "challenge",
+      "tags": [
+        "cooperative",
+        "fun/playful",
+        "relationship",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "With no bottoms, sit on your partner’s man piece until the next round",
+      "dificulty": "4",
+      "players": "2",
+      "spice": "4",
+      "type": "challenge",
+      "tags": [
+        "cooperative",
+        "fun/playful",
+        "relationship",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "With no bottoms, spoon your partner until the next round",
+      "dificulty": "4",
+      "players": "2",
+      "spice": "4",
+      "type": "challenge",
+      "tags": [
+        "active/physical",
+        "cooperative",
+        "fun/playful",
+        "relationship",
+        "requisities",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "Give your partner head for 3 minutes",
+      "dificulty": "5",
+      "players": "2",
+      "spice": "5",
+      "type": "challenge",
+      "tags": [
+        "cooperative",
+        "fun/playful",
+        "quick",
+        "relationship",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "Take and ice cube and run it up and down your partner’s body until it is melted",
+      "dificulty": "3",
+      "players": "2",
+      "spice": "3",
+      "type": "challenge",
+      "tags": [
+        "active/physical",
+        "cooperative",
+        "fun/playful",
+        "relationship",
+        "requisities"
+      ]
+    },
+    {
+      "text": "Spray whipped cream (or any other food) all over someone in the group and eat it off of them",
+      "dificulty": "4",
+      "players": "2",
+      "spice": "4",
+      "type": "challenge",
+      "tags": [
+        "cooperative",
+        "fun/playful",
+        "relationship",
+        "requisities",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "Bite/kiss your partner’s booty",
+      "dificulty": "4",
+      "players": "2",
+      "spice": "4",
+      "type": "challenge",
+      "tags": [
+        "cooperative",
+        "fun/playful",
+        "quick",
+        "relationship",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "Masturbate in front of the group (or just your partner)",
+      "dificulty": "5",
+      "players": "2",
+      "spice": "5",
+      "type": "challenge",
+      "tags": [
+        "cooperative",
+        "fun/playful",
+        "relationship",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "Blindfold yourself, Spin around for ten seconds, who ever you are pointing to at the end, go in the next room and enjoy 7 minutes of heaven",
+      "dificulty": "5",
+      "players": "2",
+      "spice": "5",
+      "type": "challenge",
+      "tags": [
+        "active/physical",
+        "fun/playful",
+        "memories",
+        "quick",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "Sit naked for the rest of the game",
+      "dificulty": "5",
+      "players": "2",
+      "spice": "5",
+      "type": "challenge",
+      "tags": [
+        "fun/playful",
+        "quick",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "Take a naked selfie and send it to your partner",
+      "dificulty": "5",
+      "players": "2",
+      "spice": "5",
+      "type": "challenge",
+      "tags": [
+        "cooperative",
+        "fun/playful",
+        "relationship",
+        "requisities",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "Go in the next room and make a sex video with your partner for 5 minutes",
+      "dificulty": "5",
+      "players": "2",
+      "spice": "5",
+      "type": "challenge",
+      "tags": [
+        "cooperative",
+        "fun/playful",
+        "quick",
+        "relationship",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "Give your partner’s private a peak",
+      "dificulty": "5",
+      "players": "2",
+      "spice": "5",
+      "type": "challenge",
+      "tags": [
+        "cooperative",
+        "fun/playful",
+        "quick",
+        "relationship",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "Stand outside naked for 3 minutes",
+      "dificulty": "4",
+      "players": "2",
+      "spice": "4",
+      "type": "challenge",
+      "tags": [
+        "fun/playful",
+        "quick",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "Give a hand job for 3 minutes",
+      "dificulty": "5",
+      "players": "2",
+      "spice": "5",
+      "type": "challenge",
+      "tags": [
+        "fun/playful",
+        "quick",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "Make love with your partner for 3 minutes only (must stop after 3 minutes)",
+      "dificulty": "5",
+      "players": "2",
+      "spice": "5",
+      "type": "challenge",
+      "tags": [
+        "cooperative",
+        "feelings",
+        "fun/playful",
+        "quick",
+        "relationship",
+        "spicy",
+        "thoughts/opinions"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "Take off your partner’s bra (or nearest woman’s) using only your teeth",
+      "dificulty": "4",
+      "players": "2",
+      "spice": "4",
+      "type": "challenge",
+      "tags": [
+        "acting",
+        "cooperative",
+        "fun/playful",
+        "relationship",
+        "requisities",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "Give a back rub the person to your right",
+      "dificulty": "3",
+      "players": "2",
+      "spice": "3",
+      "type": "challenge",
+      "tags": [
+        "cooperative",
+        "fun/playful",
+        "relationship"
+      ]
+    },
+    {
+      "text": "Pull up your favourite porn site your phone right now",
+      "dificulty": "4",
+      "players": "2",
+      "spice": "4",
+      "type": "challenge",
+      "tags": [
+        "fun/playful",
+        "pop_culture/media",
+        "requisities",
+        "spicy",
+        "thoughts/opinions"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "Send a nude to your ex",
+      "dificulty": "5",
+      "players": "2",
+      "spice": "5",
+      "type": "challenge",
+      "tags": [
+        "fun/playful",
+        "quick",
+        "relationship",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "Wear a pair of your partner’s underwear",
+      "dificulty": "4",
+      "players": "2",
+      "spice": "4",
+      "type": "challenge",
+      "tags": [
+        "cooperative",
+        "fun/playful",
+        "relationship",
+        "requisities",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "Put a hickey on the inner thigh of the person to your left",
+      "dificulty": "4",
+      "players": "2",
+      "spice": "4",
+      "type": "challenge",
+      "tags": [
+        "cooperative",
+        "fun/playful",
+        "relationship",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "Give head to the person next to you for 2 full songs",
+      "dificulty": "5",
+      "players": "2",
+      "spice": "5",
+      "type": "challenge",
+      "tags": [
+        "cooperative",
+        "creative/imagination",
+        "fun/playful",
+        "relationship",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "Make your partner cum using only your hands",
+      "dificulty": "5",
+      "players": "2",
+      "spice": "5",
+      "type": "challenge",
+      "tags": [
+        "acting",
+        "cooperative",
+        "fun/playful",
+        "relationship",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "Let your partner rub your inner thighs, but don’t let yourself get hard",
+      "dificulty": "4",
+      "players": "2",
+      "spice": "4",
+      "type": "challenge",
+      "tags": [
+        "cooperative",
+        "fun/playful",
+        "relationship",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "You must act like the sex slave to the person to your right. Doing whatever they say to do for the next 15 minutes.",
+      "dificulty": "5",
+      "players": "2",
+      "spice": "5",
+      "type": "challenge",
+      "tags": [
+        "acting",
+        "cooperative",
+        "fun/playful",
+        "memories",
+        "quick",
+        "relationship",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "Go blindfolded into the closet, undress, and redress with items only available in that same closet.",
+      "dificulty": "4",
+      "players": "2",
+      "spice": "4",
+      "type": "challenge",
+      "tags": [
+        "fun/playful",
+        "requisities",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "What is your favourite color?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "quick",
+        "thoughts/opinions"
+      ]
+    },
+    {
+      "text": "What is your favourite animal?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "quick",
+        "thoughts/opinions"
+      ]
+    },
+    {
+      "text": "What is your favourite food?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "quick",
+        "thoughts/opinions"
+      ]
+    },
+    {
+      "text": "What is your favourite school subject?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "childhood",
+        "thoughts/opinions"
+      ]
+    },
+    {
+      "text": "Who is your favourite teacher, and why?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "childhood",
+        "thoughts/opinions"
+      ]
+    },
+    {
+      "text": "What is your favourite song?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "creative/imagination",
+        "quick",
+        "thoughts/opinions"
+      ]
+    },
+    {
+      "text": "Who is your favourite Disney character?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "acting",
+        "casual",
+        "pop_culture/media",
+        "thoughts/opinions"
+      ]
+    },
+    {
+      "text": "What is your favourite TV show?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "pop_culture/media",
+        "quick",
+        "thoughts/opinions"
+      ]
+    },
+    {
+      "text": "What is your pet’s name?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "quick"
+      ]
+    },
+    {
+      "text": "What is your shoe size?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "quick",
+        "requisities"
+      ]
+    },
+    {
+      "text": "What is your favourite movie?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "pop_culture/media",
+        "quick",
+        "thoughts/opinions"
+      ]
+    },
+    {
+      "text": "Who is your favourite singer?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "acting",
+        "casual",
+        "pop_culture/media",
+        "quick",
+        "thoughts/opinions"
+      ]
+    },
+    {
+      "text": "Do you like bugs?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "quick"
+      ]
+    },
+    {
+      "text": "What is your favourite vegetable?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "quick",
+        "requisities",
+        "thoughts/opinions"
+      ]
+    },
+    {
+      "text": "15. Would you rather be a chicken or duck?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "creative/imagination",
+        "hypotheticals",
+        "silly"
+      ]
+    },
+    {
+      "text": "16. Would you rather be a pig or snake?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "creative/imagination",
+        "hypotheticals"
+      ]
+    },
+    {
+      "text": "What is your favourite game to play?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "thoughts/opinions"
+      ]
+    },
+    {
+      "text": "Do you like doing chores?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "quick"
+      ]
+    },
+    {
+      "text": "What is your favourite thing to do on the weekends?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "thoughts/opinions"
+      ]
+    },
+    {
+      "text": "Do you know how to dance?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "active/physical",
+        "casual",
+        "quick"
+      ]
+    },
+    {
+      "text": "Do you know how to cook?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "quick"
+      ]
+    },
+    {
+      "text": "Can you speak a different language?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "creative/imagination",
+        "quick"
+      ]
+    },
+    {
+      "text": "What is your favourite thing to do after school?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "childhood",
+        "thoughts/opinions"
+      ]
+    },
+    {
+      "text": "Are you in any sports?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "quick"
+      ]
+    },
+    {
+      "text": "What is your favourite sport?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "quick",
+        "thoughts/opinions"
+      ]
+    },
+    {
+      "text": "What animal are you scared of?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "feelings",
+        "quick",
+        "thoughts/opinions"
+      ]
+    },
+    {
+      "text": "Are you scared of monsters?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "feelings",
+        "quick",
+        "thoughts/opinions"
+      ]
+    },
+    {
+      "text": "Do you have an imaginary friend?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "quick",
+        "relationship"
+      ]
+    },
+    {
+      "text": "Who is your best friend?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "feelings",
+        "memories",
+        "quick",
+        "relationship",
+        "thoughts/opinions"
+      ]
+    },
+    {
+      "text": "When did you learn how to ride a bike?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "active/physical",
+        "casual",
+        "memories"
+      ]
+    },
+    {
+      "text": "Can you use a pogo stick?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "active/physical",
+        "casual",
+        "quick"
+      ]
+    },
+    {
+      "text": "What do you want to be when you grow up?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "childhood"
+      ]
+    },
+    {
+      "text": "What is your favourite sport in the Olympics?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "pop_culture/media",
+        "thoughts/opinions"
+      ]
+    },
+    {
+      "text": "What is the capital of the state that you live in?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual"
+      ]
+    },
+    {
+      "text": "If you could go anywhere in the world, where would you go?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "creative/imagination",
+        "hypotheticals"
+      ]
+    },
+    {
+      "text": "If you a million dollars, what would you do with all of your money?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "creative/imagination",
+        "hypotheticals"
+      ]
+    },
+    {
+      "text": "If you could dye your hair any colour, what colour would you pick?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "creative/imagination",
+        "hypotheticals"
+      ]
+    },
+    {
+      "text": "How many brothers and sisters do you have?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual"
+      ]
+    },
+    {
+      "text": "If you could be any animal, which one would you be?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "creative/imagination",
+        "hypotheticals"
+      ]
+    },
+    {
+      "text": "What is your favourite place to go out to eat?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "thoughts/opinions"
+      ]
+    },
+    {
+      "text": "Do the silliest dance that you can think of",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "active/physical",
+        "fun/playful"
+      ]
+    },
+    {
+      "text": "Act like an old lady or an old man",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "acting",
+        "fun/playful",
+        "quick"
+      ]
+    },
+    {
+      "text": "Spin around 10 times, when you get done try to walk in a straight line",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "active/physical",
+        "fun/playful"
+      ]
+    },
+    {
+      "text": "Do 10 jumping jacks, and then do 10 pushups",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "active/physical",
+        "fun/playful"
+      ]
+    },
+    {
+      "text": "Say the alphabet backwards in 30 seconds",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "fun/playful",
+        "quick"
+      ]
+    },
+    {
+      "text": "Go a whole minute without blinking",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "active/physical",
+        "fun/playful",
+        "quick"
+      ]
+    },
+    {
+      "text": "Hold your breath for 10 seconds",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "active/physical",
+        "fun/playful",
+        "quick"
+      ]
+    },
+    {
+      "text": "Act like a chicken for 1 minute",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "acting",
+        "fun/playful",
+        "quick",
+        "silly"
+      ]
+    },
+    {
+      "text": "Jump up and down until it’s your turn again",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "active/physical",
+        "fun/playful"
+      ]
+    },
+    {
+      "text": "Close your eyes until it’s your turn again",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "fun/playful"
+      ]
+    },
+    {
+      "text": "Sing “Itsy Bitsy Spider” while standing on your head",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "acting",
+        "fun/playful",
+        "relationship"
+      ]
+    },
+    {
+      "text": "Do 5 cartwheels in a row",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "active/physical",
+        "fun/playful",
+        "quick"
+      ]
+    },
+    {
+      "text": "Do a backbend",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "active/physical",
+        "fun/playful",
+        "quick"
+      ]
+    },
+    {
+      "text": "Act like your favourite Disney person",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "acting",
+        "fun/playful",
+        "pop_culture/media",
+        "thoughts/opinions"
+      ]
+    },
+    {
+      "text": "Say “banana” after everything you say until it is your turn again",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "fun/playful",
+        "memories",
+        "requisities"
+      ]
+    },
+    {
+      "text": "Make up a poem about the colour blue",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "creative/imagination",
+        "fun/playful"
+      ]
+    },
+    {
+      "text": "Act like a monkey until it is your turn again",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "acting",
+        "fun/playful",
+        "silly"
+      ]
+    },
+    {
+      "text": "Do a handstand",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "active/physical",
+        "fun/playful",
+        "quick"
+      ]
+    },
+    {
+      "text": "Cross your eyes",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "fun/playful",
+        "quick"
+      ]
+    },
+    {
+      "text": "Lick your nose",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "fun/playful",
+        "quick",
+        "silly"
+      ]
+    },
+    {
+      "text": "Eat a spoonful of peanut butter",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "active/physical",
+        "fun/playful",
+        "quick",
+        "requisities"
+      ]
+    },
+    {
+      "text": "Tickle the person to your right",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "cooperative",
+        "fun/playful",
+        "quick",
+        "relationship"
+      ]
+    },
+    {
+      "text": "Tie your shoe strings together and try to walk to the door and back",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "active/physical",
+        "fun/playful",
+        "requisities"
+      ]
+    },
+    {
+      "text": "Act like a baby until your next turn",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "acting",
+        "fun/playful",
+        "silly"
+      ]
+    },
+    {
+      "text": "Moo like a cow as loud as you can",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "fun/playful",
+        "quick",
+        "silly"
+      ]
+    },
+    {
+      "text": "Do the sprinkler dance",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "active/physical",
+        "fun/playful",
+        "quick"
+      ]
+    },
+    {
+      "text": "Act like your favourite superhero",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "acting",
+        "fun/playful",
+        "pop_culture/media",
+        "quick",
+        "thoughts/opinions"
+      ]
+    },
+    {
+      "text": "Go 10 minutes without saying the words: but, a, the, or",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "fun/playful",
+        "quick"
+      ]
+    },
+    {
+      "text": "Act like a statue until it is your turn again (no talking or moving)",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "acting",
+        "fun/playful",
+        "silly"
+      ]
+    },
+    {
+      "text": "Meow like cat",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "fun/playful",
+        "quick",
+        "silly"
+      ]
+    },
+    {
+      "text": "Put your leg behind you head",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "fun/playful",
+        "quick",
+        "relationship"
+      ]
+    },
+    {
+      "text": "Sing your favourite song",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "acting",
+        "creative/imagination",
+        "fun/playful",
+        "quick",
+        "thoughts/opinions"
+      ]
+    },
+    {
+      "text": "Make a fish face",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "fun/playful",
+        "quick",
+        "silly"
+      ]
+    },
+    {
+      "text": "Pretend that you are an airplane for 2 minutes",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "acting",
+        "fun/playful",
+        "quick"
+      ]
+    },
+    {
+      "text": "Dance like a ballerina",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "active/physical",
+        "fun/playful",
+        "quick"
+      ]
+    },
+    {
+      "text": "Say the alphabet in a different language",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "creative/imagination",
+        "fun/playful"
+      ]
+    },
+    {
+      "text": "Do your best hip hop dance",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "active/physical",
+        "feelings",
+        "fun/playful",
+        "memories",
+        "quick",
+        "thoughts/opinions"
+      ]
+    },
+    {
+      "text": "Try to lick your elbow",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "fun/playful",
+        "quick",
+        "silly"
+      ]
+    },
+    {
+      "text": "Paint your fingernails with a crayon",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "fun/playful",
+        "requisities"
+      ]
+    },
+    {
+      "text": "Sit upside down in a chair until your next turn",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "fun/playful"
+      ]
+    },
+    {
+      "text": "How people have you slept with on campus?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual"
+      ]
+    },
+    {
+      "text": "What is your real GPA?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "quick"
+      ]
+    },
+    {
+      "text": "What is your least favourite frat on campus?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "rant",
+        "thoughts/opinions"
+      ]
+    },
+    {
+      "text": "What did you do on your first night of freshman year?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "childhood",
+        "memories"
+      ]
+    },
+    {
+      "text": "Would you ever have sex with one of your professors? If so, which one?",
+      "dificulty": "4",
+      "players": "2",
+      "spice": "4",
+      "type": "question",
+      "tags": [
+        "casual",
+        "memories",
+        "relationship",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "Have you ever blacked out from drinking too much?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": [
+        "casual",
+        "memories"
+      ]
+    },
+    {
+      "text": "What is the craziest thing that you have ever done while drunk?",
+      "dificulty": "0",
+      "players": "2",
+      "spice": "0",
+      "type": "question",
+      "tags": [
+        "active/physical",
+        "casual",
+        "feelings",
+        "memories",
+        "thoughts/opinions"
+      ]
+    },
+    {
+      "text": "Who is the best roommate that you have ever had?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "feelings",
+        "memories",
+        "relationship",
+        "thoughts/opinions"
+      ]
+    },
+    {
+      "text": "What is the most annoying thing that your roommate has ever done?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": [
+        "casual",
+        "feelings",
+        "memories",
+        "rant",
+        "relationship",
+        "thoughts/opinions"
+      ]
+    },
+    {
+      "text": "Have you ever had sex anywhere on campus?",
+      "dificulty": "4",
+      "players": "2",
+      "spice": "4",
+      "type": "question",
+      "tags": [
+        "casual",
+        "memories",
+        "relationship",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "Have you ever had sex in your roommate’s bed?",
+      "dificulty": "4",
+      "players": "2",
+      "spice": "4",
+      "type": "question",
+      "tags": [
+        "casual",
+        "memories",
+        "relationship",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "Did you smoke or drink before college? Or did you start when you got here?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": [
+        "casual"
+      ]
+    },
+    {
+      "text": "Have you ever been a stripper?",
+      "dificulty": "4",
+      "players": "2",
+      "spice": "4",
+      "type": "question",
+      "tags": [
+        "casual",
+        "memories",
+        "quick",
+        "relationship",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "Have you ever slept with your roommate’s bf/gf?",
+      "dificulty": "4",
+      "players": "2",
+      "spice": "4",
+      "type": "question",
+      "tags": [
+        "casual",
+        "memories",
+        "relationship",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "Have you ever had sex in your parent’s bed?",
+      "dificulty": "4",
+      "players": "2",
+      "spice": "4",
+      "type": "question",
+      "tags": [
+        "casual",
+        "memories",
+        "relationship",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "Would you drop out of school if you were to win the lottery?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "childhood"
+      ]
+    },
+    {
+      "text": "What is the best party that you’ve ever been to?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "feelings",
+        "memories",
+        "thoughts/opinions"
+      ]
+    },
+    {
+      "text": "How many parties have you thrown at your house?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual"
+      ]
+    },
+    {
+      "text": "Have you ever had a threesome?",
+      "dificulty": "5",
+      "players": "2",
+      "spice": "5",
+      "type": "question",
+      "tags": [
+        "casual",
+        "memories",
+        "quick",
+        "relationship",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "Have you ever wanted to have an orgy?",
+      "dificulty": "5",
+      "players": "2",
+      "spice": "5",
+      "type": "question",
+      "tags": [
+        "casual",
+        "memories",
+        "relationship",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "Have you used a toy while have sex?",
+      "dificulty": "4",
+      "players": "2",
+      "spice": "4",
+      "type": "question",
+      "tags": [
+        "casual",
+        "quick",
+        "relationship",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "What is the longest you’ve had sex in one session?",
+      "dificulty": "5",
+      "players": "2",
+      "spice": "5",
+      "type": "question",
+      "tags": [
+        "casual",
+        "relationship",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "What is most amount of shots that you have taken in one night?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": [
+        "casual",
+        "requisities"
+      ]
+    },
+    {
+      "text": "Have you ever thrown up in someone’s car?",
+      "dificulty": "0",
+      "players": "2",
+      "spice": "0",
+      "type": "question",
+      "tags": [
+        "casual",
+        "memories"
+      ]
+    },
+    {
+      "text": "Have you ever wet bed from being too drunk?",
+      "dificulty": "0",
+      "players": "2",
+      "spice": "0",
+      "type": "question",
+      "tags": [
+        "active/physical",
+        "casual",
+        "memories"
+      ]
+    },
+    {
+      "text": "What is the longest you have gone without sleep?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": [
+        "casual"
+      ]
+    },
+    {
+      "text": "What is the longest you’ve gone without sex?",
+      "dificulty": "4",
+      "players": "2",
+      "spice": "4",
+      "type": "question",
+      "tags": [
+        "casual",
+        "relationship",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "How many times have you skipped class for no reason?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual"
+      ]
+    },
+    {
+      "text": "Have you ever gotten an STD?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": [
+        "casual",
+        "memories",
+        "quick"
+      ]
+    },
+    {
+      "text": "Have you ever woken up to a stranger in your bed?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": [
+        "casual",
+        "memories"
+      ]
+    },
+    {
+      "text": "What is the earliest you have ever started drinking in the day?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": [
+        "casual",
+        "memories"
+      ]
+    },
+    {
+      "text": "Have you ever spent your parent’s money on alcohol?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": [
+        "casual",
+        "memories"
+      ]
+    },
+    {
+      "text": "How many freshmen have you slept with?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": [
+        "casual"
+      ]
+    },
+    {
+      "text": "Have you ever taken money from a freshman?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": [
+        "casual",
+        "childhood",
+        "memories"
+      ]
+    },
+    {
+      "text": "Have you ever lied to your parents about if you were in classes or not?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": [
+        "casual",
+        "memories"
+      ]
+    },
+    {
+      "text": "Have you ever taken money from your roommate?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "memories",
+        "relationship"
+      ]
+    },
+    {
+      "text": "What is the most annoying thing your roommate does?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "feelings",
+        "rant",
+        "relationship",
+        "thoughts/opinions"
+      ]
+    },
+    {
+      "text": "Have you been in any fights while in school?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "childhood"
+      ]
+    },
+    {
+      "text": "Have you ever had someone write a paper for you?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "memories"
+      ]
+    },
+    {
+      "text": "Have you ever done a sex train? (whatever that is)",
+      "dificulty": "4",
+      "players": "2",
+      "spice": "4",
+      "type": "question",
+      "tags": [
+        "casual",
+        "memories",
+        "relationship",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "Take a shot",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "tags": [
+        "fun/playful",
+        "quick",
+        "requisities"
+      ]
+    },
+    {
+      "text": "Take a shot off of the person to your right",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "tags": [
+        "cooperative",
+        "fun/playful",
+        "relationship",
+        "requisities"
+      ]
+    },
+    {
+      "text": "Run down the street in only your underwear",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "tags": [
+        "active/physical",
+        "fun/playful",
+        "requisities"
+      ]
+    },
+    {
+      "text": "Slap the person to your left on the booty",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "tags": [
+        "cooperative",
+        "fun/playful",
+        "relationship"
+      ]
+    },
+    {
+      "text": "Eat a raw egg",
+      "dificulty": "0",
+      "players": "2",
+      "spice": "0",
+      "type": "challenge",
+      "tags": [
+        "fun/playful",
+        "quick",
+        "requisities"
+      ]
+    },
+    {
+      "text": "Eat a dry pack of noodles",
+      "dificulty": "0",
+      "players": "2",
+      "spice": "0",
+      "type": "challenge",
+      "tags": [
+        "fun/playful",
+        "quick",
+        "requisities"
+      ]
+    },
+    {
+      "text": "Floss the teeth of the person to your left",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "tags": [
+        "cooperative",
+        "fun/playful",
+        "relationship"
+      ]
+    },
+    {
+      "text": "Take a shower fully clothed",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "tags": [
+        "fun/playful",
+        "pop_culture/media",
+        "quick"
+      ]
+    },
+    {
+      "text": "Speak like Tony Montana for the next 10 minutes",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "fun/playful",
+        "quick"
+      ]
+    },
+    {
+      "text": "Give the person to your right a hickie",
+      "dificulty": "4",
+      "players": "2",
+      "spice": "4",
+      "type": "challenge",
+      "tags": [
+        "cooperative",
+        "fun/playful",
+        "relationship",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "Eat toilet paper",
+      "dificulty": "0",
+      "players": "2",
+      "spice": "0",
+      "type": "challenge",
+      "tags": [
+        "fun/playful",
+        "quick"
+      ]
+    },
+    {
+      "text": "Snort a line of sugar",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "tags": [
+        "fun/playful",
+        "quick"
+      ]
+    },
+    {
+      "text": "Eat some soap",
+      "dificulty": "0",
+      "players": "2",
+      "spice": "0",
+      "type": "challenge",
+      "tags": [
+        "fun/playful",
+        "quick"
+      ]
+    },
+    {
+      "text": "Twerk on a handstand",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "tags": [
+        "active/physical",
+        "fun/playful",
+        "quick"
+      ]
+    },
+    {
+      "text": "Let someone give you haircut with their weak hand",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "tags": [
+        "cooperative",
+        "fun/playful",
+        "relationship"
+      ]
+    },
+    {
+      "text": "Make a freestyle rap song about each person in the group",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "creative/imagination",
+        "fun/playful"
+      ]
+    },
+    {
+      "text": "Lick someone’s foot",
+      "dificulty": "0",
+      "players": "2",
+      "spice": "0",
+      "type": "challenge",
+      "tags": [
+        "cooperative",
+        "fun/playful",
+        "quick",
+        "relationship",
+        "silly"
+      ]
+    },
+    {
+      "text": "Give a topless lap dance",
+      "dificulty": "4",
+      "players": "2",
+      "spice": "4",
+      "type": "challenge",
+      "tags": [
+        "active/physical",
+        "fun/playful",
+        "quick",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "Call someone random, and talk freaky to them",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "tags": [
+        "cooperative",
+        "fun/playful",
+        "relationship"
+      ]
+    },
+    {
+      "text": "Twerk while in a split",
+      "dificulty": "4",
+      "players": "2",
+      "spice": "4",
+      "type": "challenge",
+      "tags": [
+        "active/physical",
+        "fun/playful",
+        "quick",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "Spin the bottle, whoever it lands on you must take their shirt off, only using your teeth",
+      "dificulty": "4",
+      "players": "2",
+      "spice": "4",
+      "type": "challenge",
+      "tags": [
+        "acting",
+        "active/physical",
+        "fun/playful",
+        "memories",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "Send a nude to one of your exes",
+      "dificulty": "5",
+      "players": "2",
+      "spice": "5",
+      "type": "challenge",
+      "tags": [
+        "fun/playful",
+        "quick",
+        "relationship",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "Email one of your professor’s and tell them you love them",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "tags": [
+        "feelings",
+        "fun/playful",
+        "relationship",
+        "requisities",
+        "romantic",
+        "thoughts/opinions"
+      ]
+    },
+    {
+      "text": "Lick the wall",
+      "dificulty": "0",
+      "players": "2",
+      "spice": "0",
+      "type": "challenge",
+      "tags": [
+        "fun/playful",
+        "quick",
+        "silly"
+      ]
+    },
+    {
+      "text": "Blindfolded, spin around for 10 seconds, kiss the person in front you at the end of your spinning",
+      "dificulty": "4",
+      "players": "2",
+      "spice": "4",
+      "type": "challenge",
+      "tags": [
+        "active/physical",
+        "cooperative",
+        "fun/playful",
+        "quick",
+        "relationship",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "Close your eyes, go to the refrigerator and eat whatever you grab",
+      "dificulty": "4",
+      "players": "2",
+      "spice": "4",
+      "type": "challenge",
+      "tags": [
+        "fun/playful",
+        "memories",
+        "requisities",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "Give some head with their underwear still on",
+      "dificulty": "5",
+      "players": "2",
+      "spice": "5",
+      "type": "challenge",
+      "tags": [
+        "fun/playful",
+        "relationship",
+        "requisities",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "Take two shots of a dark and a light liquor ( 4 shots total)",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "tags": [
+        "fun/playful",
+        "requisities"
+      ]
+    },
+    {
+      "text": "Blindfolded, let someone tie you to a chair and give you a lapdance",
+      "dificulty": "4",
+      "players": "2",
+      "spice": "4",
+      "type": "challenge",
+      "tags": [
+        "active/physical",
+        "cooperative",
+        "fun/playful",
+        "relationship",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "Go outside completely naked and walk slowly up to the mailbox and back",
+      "dificulty": "5",
+      "players": "2",
+      "spice": "5",
+      "type": "challenge",
+      "tags": [
+        "active/physical",
+        "fun/playful",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "Let someone lick a full circle around your face",
+      "dificulty": "0",
+      "players": "2",
+      "spice": "0",
+      "type": "challenge",
+      "tags": [
+        "cooperative",
+        "fun/playful",
+        "relationship",
+        "silly"
+      ]
+    },
+    {
+      "text": "Stand in the corner in “time out”, not say a word for the next 3 rounds",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "fun/playful",
+        "quick"
+      ]
+    },
+    {
+      "text": "Make out with someone’s boyfriend or girlfriend",
+      "dificulty": "3",
+      "players": "2",
+      "spice": "3",
+      "type": "challenge",
+      "tags": [
+        "cooperative",
+        "fun/playful",
+        "relationship",
+        "romantic"
+      ]
+    },
+    {
+      "text": "Raise your shirt play with your nipples",
+      "dificulty": "4",
+      "players": "2",
+      "spice": "4",
+      "type": "challenge",
+      "tags": [
+        "fun/playful",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "Chug a whole beer in 15 seconds",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "tags": [
+        "fun/playful",
+        "quick",
+        "requisities"
+      ]
+    },
+    {
+      "text": "Sit in the trash can for the next round",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "tags": [
+        "fun/playful"
+      ]
+    },
+    {
+      "text": "Chug an entire beer, then spin around for 15 seconds, after that try to run to the door",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "tags": [
+        "active/physical",
+        "fun/playful",
+        "quick",
+        "requisities"
+      ]
+    },
+    {
+      "text": "Wearing only high heels do a strip dance for the group",
+      "dificulty": "4",
+      "players": "2",
+      "spice": "4",
+      "type": "challenge",
+      "tags": [
+        "active/physical",
+        "fun/playful",
+        "relationship",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "Take 2 shots and do a cartwheel",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "tags": [
+        "active/physical",
+        "fun/playful",
+        "quick",
+        "requisities"
+      ]
+    },
+    {
+      "text": "Call your parents and tell them you’re dropping out",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "tags": [
+        "fun/playful"
+      ]
+    },
+    {
+      "text": "What is the most annoying thing that your mom does?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "feelings",
+        "rant",
+        "thoughts/opinions"
+      ]
+    },
+    {
+      "text": "What is the most annoying thing that your dad does?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "feelings",
+        "rant",
+        "thoughts/opinions"
+      ]
+    },
+    {
+      "text": "Have you ever snuck anyone into to the house?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "memories"
+      ]
+    },
+    {
+      "text": "How many times have you snuck out of the house?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual"
+      ]
+    },
+    {
+      "text": "What is the best dish that you mom makes for dinner?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "feelings",
+        "memories",
+        "thoughts/opinions"
+      ]
+    },
+    {
+      "text": "If you could change any of the house rules, what would it be?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "creative/imagination",
+        "hypotheticals"
+      ]
+    },
+    {
+      "text": "Would you rather be a horse or a cow?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "creative/imagination",
+        "hypotheticals",
+        "silly"
+      ]
+    },
+    {
+      "text": "What is the funniest thing your grandparents have ever said?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "memories"
+      ]
+    },
+    {
+      "text": "If you could get rid of one household chore, what would it be?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "creative/imagination",
+        "hypotheticals"
+      ]
+    },
+    {
+      "text": "What is your favourite cartoon from your generation?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "thoughts/opinions"
+      ]
+    },
+    {
+      "text": "What is your favourite childhood song?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "childhood",
+        "creative/imagination",
+        "memories",
+        "thoughts/opinions"
+      ]
+    },
+    {
+      "text": "What is your favourite board game to play with your family?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "thoughts/opinions"
+      ]
+    },
+    {
+      "text": "If you could put one person in your family on mute for a day, who would it be?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "creative/imagination",
+        "hypotheticals"
+      ]
+    },
+    {
+      "text": "At what age did you learn to ride a bike?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "active/physical",
+        "casual"
+      ]
+    },
+    {
+      "text": "Do you know how to swim?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "quick"
+      ]
+    },
+    {
+      "text": "Describe your dream home",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "quick",
+        "thoughts/opinions"
+      ]
+    },
+    {
+      "text": "What is the funniest dream that you have ever had?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "memories",
+        "thoughts/opinions"
+      ]
+    },
+    {
+      "text": "Have you ever had a dream about one of your relatives?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "memories",
+        "thoughts/opinions"
+      ]
+    },
+    {
+      "text": "Who is your celebrity husband or wife?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "pop_culture/media"
+      ]
+    },
+    {
+      "text": "Who taught you how to tie your shoes?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "requisities"
+      ]
+    },
+    {
+      "text": "What is the longest that you have ever been without taking a shower?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "memories",
+        "pop_culture/media"
+      ]
+    },
+    {
+      "text": "Have you ever worn the same clothes for more than three days?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "memories"
+      ]
+    },
+    {
+      "text": "What is your favourite holiday and why?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "thoughts/opinions"
+      ]
+    },
+    {
+      "text": "If you could be any dinosaur, which would it be?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "creative/imagination",
+        "hypotheticals"
+      ]
+    },
+    {
+      "text": "How long could you without eating your favourite food?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "thoughts/opinions"
+      ]
+    },
+    {
+      "text": "Who in your family tells the corniest jokes?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "creative/imagination"
+      ]
+    },
+    {
+      "text": "Would you rather be a bumblebee or a slug?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "creative/imagination",
+        "hypotheticals"
+      ]
+    },
+    {
+      "text": "Have you ever eaten a worm?",
+      "dificulty": "0",
+      "players": "2",
+      "spice": "0",
+      "type": "question",
+      "tags": [
+        "casual",
+        "memories",
+        "quick"
+      ]
+    },
+    {
+      "text": "Have you ever picked your nose when you thought no one was looking?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "memories",
+        "silly"
+      ]
+    },
+    {
+      "text": "If you could be any super villain, who would you be?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "creative/imagination",
+        "hypotheticals"
+      ]
+    },
+    {
+      "text": "Put peanut butter on your nose, and try to to lick it off",
+      "dificulty": "0",
+      "players": "2",
+      "spice": "0",
+      "type": "challenge",
+      "tags": [
+        "fun/playful",
+        "requisities",
+        "silly"
+      ]
+    },
+    {
+      "text": "Do a headstand",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "active/physical",
+        "fun/playful",
+        "quick",
+        "relationship"
+      ]
+    },
+    {
+      "text": "Stand on one leg for the next three rounds",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "fun/playful",
+        "quick"
+      ]
+    },
+    {
+      "text": "Cross your eyes and walk to front yard and back",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "active/physical",
+        "fun/playful"
+      ]
+    },
+    {
+      "text": "Do an impression of your favourite relative, do not stop until everyone can guess who you are",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "acting",
+        "fun/playful",
+        "memories",
+        "thoughts/opinions",
+        "versus"
+      ]
+    },
+    {
+      "text": "Act like the family pet until it is your turn again",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "acting",
+        "fun/playful"
+      ]
+    },
+    {
+      "text": "For the next 2 rounds, you must do whatever the person to your right says",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "cooperative",
+        "fun/playful",
+        "memories",
+        "quick",
+        "relationship"
+      ]
+    },
+    {
+      "text": "Quack and walk like a duck",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "active/physical",
+        "fun/playful",
+        "quick",
+        "silly"
+      ]
+    },
+    {
+      "text": "Do your best impression of Mickey Mouse",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "acting",
+        "feelings",
+        "fun/playful",
+        "memories",
+        "pop_culture/media",
+        "thoughts/opinions"
+      ]
+    },
+    {
+      "text": "Spin around for 10 seconds and run out the mailbox and back",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "active/physical",
+        "fun/playful",
+        "quick"
+      ]
+    },
+    {
+      "text": "Balance a spoon on your nose until the next round",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "active/physical",
+        "fun/playful",
+        "requisities",
+        "silly"
+      ]
+    },
+    {
+      "text": "Do your best evil laugh, as loud as you can",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "acting",
+        "feelings",
+        "fun/playful",
+        "memories",
+        "thoughts/opinions"
+      ]
+    },
+    {
+      "text": "Make a funny face, take a selfie, and post it on Facebook",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "fun/playful",
+        "requisities"
+      ]
+    },
+    {
+      "text": "Call a random person and sing happy birthday to them",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "acting",
+        "fun/playful"
+      ]
+    },
+    {
+      "text": "Blindfolded, go to the kitchen and make sandwich",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "fun/playful",
+        "requisities"
+      ]
+    },
+    {
+      "text": "Give the person to your left a wet willy",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "cooperative",
+        "fun/playful",
+        "relationship",
+        "silly"
+      ]
+    },
+    {
+      "text": "Wiggle your ears without using your hands",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "acting",
+        "fun/playful"
+      ]
+    },
+    {
+      "text": "Talk like a baby for the next 3 rounds",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "acting",
+        "fun/playful",
+        "quick",
+        "silly"
+      ]
+    },
+    {
+      "text": "Record yourself doing the silliest dance you can do, and post it to Facebook",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "active/physical",
+        "fun/playful",
+        "requisities"
+      ]
+    },
+    {
+      "text": "Tell a funny knock knock joke, everyone must laugh",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "creative/imagination",
+        "fun/playful",
+        "memories"
+      ]
+    },
+    {
+      "text": "Hold your breath for 15 seconds",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "active/physical",
+        "fun/playful",
+        "quick"
+      ]
+    },
+    {
+      "text": "Do a headstand while you sing your favourite nursery rhyme",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "acting",
+        "active/physical",
+        "fun/playful",
+        "relationship",
+        "thoughts/opinions"
+      ]
+    },
+    {
+      "text": "Try to spin on your head like a break dancer",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "active/physical",
+        "fun/playful",
+        "relationship"
+      ]
+    },
+    {
+      "text": "Balance the object to your left on your head for the next three rounds",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "active/physical",
+        "fun/playful",
+        "quick",
+        "relationship"
+      ]
+    },
+    {
+      "text": "Do your best hula dance",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "active/physical",
+        "feelings",
+        "fun/playful",
+        "memories",
+        "quick",
+        "thoughts/opinions"
+      ]
+    },
+    {
+      "text": "Tapdance on the couch",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "active/physical",
+        "fun/playful",
+        "quick"
+      ]
+    },
+    {
+      "text": "Stand up and spin around for the next two rounds",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "active/physical",
+        "fun/playful",
+        "quick"
+      ]
+    },
+    {
+      "text": "Do 150 jumping jacks",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "active/physical",
+        "fun/playful",
+        "quick"
+      ]
+    },
+    {
+      "text": "Use the person to your right’s stomach as a drum and make upa tribal dance",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "active/physical",
+        "cooperative",
+        "creative/imagination",
+        "fun/playful",
+        "relationship"
+      ]
+    },
+    {
+      "text": "Stand like a flamingo for the next four rounds",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "fun/playful"
+      ]
+    },
+    {
+      "text": "Who is your best looking teacher that you have ever had?",
+      "dificulty": "3",
+      "players": "2",
+      "spice": "3",
+      "type": "question",
+      "tags": [
+        "casual",
+        "childhood",
+        "feelings",
+        "memories",
+        "thoughts/opinions"
+      ]
+    },
+    {
+      "text": "Have you ever cheated on any test?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "memories",
+        "quick",
+        "relationship"
+      ]
+    },
+    {
+      "text": "Who is your crush at school?",
+      "dificulty": "3",
+      "players": "2",
+      "spice": "3",
+      "type": "question",
+      "tags": [
+        "casual",
+        "childhood",
+        "quick",
+        "relationship",
+        "romantic"
+      ]
+    },
+    {
+      "text": "Who is the most annoying person you know?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "feelings",
+        "rant",
+        "thoughts/opinions"
+      ]
+    },
+    {
+      "text": "Have you ever pulled a prank on your teacher?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "childhood",
+        "memories"
+      ]
+    },
+    {
+      "text": "Have you ever lied to your parents about what you were doingafter school?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "childhood",
+        "memories"
+      ]
+    },
+    {
+      "text": "Have you ever blamed something that you have done on one of your siblings?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "memories"
+      ]
+    },
+    {
+      "text": "What college do you plan on going to?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual"
+      ]
+    },
+    {
+      "text": "Are you still a virgin?",
+      "dificulty": "3",
+      "players": "2",
+      "spice": "3",
+      "type": "question",
+      "tags": [
+        "casual",
+        "quick"
+      ]
+    },
+    {
+      "text": "How many boyfriends (or girlfriends) have you had?",
+      "dificulty": "3",
+      "players": "2",
+      "spice": "3",
+      "type": "question",
+      "tags": [
+        "casual",
+        "relationship",
+        "romantic"
+      ]
+    },
+    {
+      "text": "Have you ever been kissed yet? If so, who was your best kiss?",
+      "dificulty": "3",
+      "players": "2",
+      "spice": "3",
+      "type": "question",
+      "tags": [
+        "casual",
+        "feelings",
+        "memories",
+        "relationship",
+        "romantic",
+        "thoughts/opinions"
+      ]
+    },
+    {
+      "text": "What is your biggest pet peeve?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "feelings",
+        "quick",
+        "thoughts/opinions"
+      ]
+    },
+    {
+      "text": "What is the best vacation you’ve ever been on?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "feelings",
+        "memories",
+        "thoughts/opinions"
+      ]
+    },
+    {
+      "text": "Have you ever told one of your best friend’s secrets, even if you said you wouldn’t?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "feelings",
+        "memories",
+        "relationship",
+        "thoughts/opinions"
+      ]
+    },
+    {
+      "text": "Have you ever had a crush on someone that your best friend has dated?",
+      "dificulty": "3",
+      "players": "2",
+      "spice": "3",
+      "type": "question",
+      "tags": [
+        "casual",
+        "feelings",
+        "memories",
+        "relationship",
+        "romantic",
+        "thoughts/opinions"
+      ]
+    },
+    {
+      "text": "What is the most annoying thing that one of your siblings has done?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "feelings",
+        "rant",
+        "thoughts/opinions"
+      ]
+    },
+    {
+      "text": "Do you have a job? If so, what is your favourite thing aboutit?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "thoughts/opinions"
+      ]
+    },
+    {
+      "text": "If you were a billionaire, what would you spend your time doing?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "creative/imagination",
+        "hypotheticals"
+      ]
+    },
+    {
+      "text": "What is the longest time you have ever been grounded?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "memories"
+      ]
+    },
+    {
+      "text": "What is the longest time that you think you could go withoutyour cell phone?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "requisities"
+      ]
+    },
+    {
+      "text": "What is the most expensive thing you own?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual"
+      ]
+    },
+    {
+      "text": "If you had the choice to live on your own right now, would you do it?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual"
+      ]
+    },
+    {
+      "text": "Can you see yourself being married to the creepiest kid a your school someday?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "childhood"
+      ]
+    },
+    {
+      "text": "Would you ever get on a dating website?",
+      "dificulty": "3",
+      "players": "2",
+      "spice": "3",
+      "type": "question",
+      "tags": [
+        "casual",
+        "memories"
+      ]
+    },
+    {
+      "text": "Have you ever watched an adult film without your parents knowing?",
+      "dificulty": "3",
+      "players": "2",
+      "spice": "3",
+      "type": "question",
+      "tags": [
+        "casual",
+        "memories"
+      ]
+    },
+    {
+      "text": "If you could own your own business one day, what would it be?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "creative/imagination",
+        "hypotheticals"
+      ]
+    },
+    {
+      "text": "What is your favourite kind of clothing?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "thoughts/opinions"
+      ]
+    },
+    {
+      "text": "What celebrity are you obsessed with?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "pop_culture/media"
+      ]
+    },
+    {
+      "text": "What is the funniest youtube video you have ever seen?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "memories"
+      ]
+    },
+    {
+      "text": "Who is the worst teacher you have ever had, why?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "childhood",
+        "feelings",
+        "memories",
+        "thoughts/opinions"
+      ]
+    },
+    {
+      "text": "What is your favourite sports team?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "quick",
+        "thoughts/opinions"
+      ]
+    },
+    {
+      "text": "What he craziest thing that you have ever done without yourparents knowing?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "feelings",
+        "memories",
+        "thoughts/opinions"
+      ]
+    },
+    {
+      "text": "What would you do if your parents left the house to you fora whole week?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual"
+      ]
+    },
+    {
+      "text": "What is your favourite song that is out right now?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "creative/imagination",
+        "thoughts/opinions"
+      ]
+    },
+    {
+      "text": "Could you go two months without talking to your friends?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "relationship"
+      ]
+    },
+    {
+      "text": "With powder in your hand, smack the person to you left on thecheek",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "cooperative",
+        "fun/playful",
+        "relationship"
+      ]
+    },
+    {
+      "text": "Do a handstand on the wall for the next two rounds",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "active/physical",
+        "fun/playful",
+        "quick"
+      ]
+    },
+    {
+      "text": "Kiss a pillow until it is your turn again",
+      "dificulty": "3",
+      "players": "2",
+      "spice": "3",
+      "type": "challenge",
+      "tags": [
+        "fun/playful",
+        "relationship",
+        "requisities",
+        "romantic"
+      ]
+    },
+    {
+      "text": "Do your best chicken dance outside on the lawn",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "tags": [
+        "active/physical",
+        "feelings",
+        "fun/playful",
+        "memories",
+        "silly",
+        "thoughts/opinions"
+      ]
+    },
+    {
+      "text": "Eat three spoonfuls of mustard",
+      "dificulty": "0",
+      "players": "2",
+      "spice": "0",
+      "type": "challenge",
+      "tags": [
+        "active/physical",
+        "fun/playful",
+        "quick",
+        "requisities"
+      ]
+    },
+    {
+      "text": "Using only your elbows, make a Facebook status and post it",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "tags": [
+        "acting",
+        "fun/playful",
+        "requisities",
+        "silly"
+      ]
+    },
+    {
+      "text": "Text your crush and tell them how much you like them",
+      "dificulty": "3",
+      "players": "2",
+      "spice": "3",
+      "type": "challenge",
+      "tags": [
+        "fun/playful",
+        "relationship",
+        "romantic"
+      ]
+    },
+    {
+      "text": "Send an email to one of your teachers, telling them about howyour day is going",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "tags": [
+        "fun/playful",
+        "requisities"
+      ]
+    },
+    {
+      "text": "Smell pepper and try not to sneeze",
+      "dificulty": "0",
+      "players": "2",
+      "spice": "0",
+      "type": "challenge",
+      "tags": [
+        "fun/playful",
+        "quick",
+        "requisities"
+      ]
+    },
+    {
+      "text": "Ask your crush out on a date",
+      "dificulty": "3",
+      "players": "2",
+      "spice": "3",
+      "type": "challenge",
+      "tags": [
+        "fun/playful",
+        "quick",
+        "relationship",
+        "romantic"
+      ]
+    },
+    {
+      "text": "Blindfolded, spin around 10 times and walk down the street and back",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "active/physical",
+        "fun/playful"
+      ]
+    },
+    {
+      "text": "Take a selfie with a broom and post it on all of your socialmedia",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "tags": [
+        "fun/playful",
+        "requisities"
+      ]
+    },
+    {
+      "text": "Put the socks of the person to your right in your mouth",
+      "dificulty": "0",
+      "players": "2",
+      "spice": "0",
+      "type": "challenge",
+      "tags": [
+        "cooperative",
+        "fun/playful",
+        "relationship",
+        "requisities"
+      ]
+    },
+    {
+      "text": "Do an impression of your most annoying teacher",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "acting",
+        "feelings",
+        "fun/playful",
+        "rant",
+        "thoughts/opinions"
+      ]
+    },
+    {
+      "text": "Prank call a local restaurant and order one of everything onthe menu",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "fun/playful",
+        "memories"
+      ]
+    },
+    {
+      "text": "Eat half a stick of butter",
+      "dificulty": "0",
+      "players": "2",
+      "spice": "0",
+      "type": "challenge",
+      "tags": [
+        "fun/playful",
+        "quick"
+      ]
+    },
+    {
+      "text": "Try to tickle yourself",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "tags": [
+        "fun/playful",
+        "quick"
+      ]
+    },
+    {
+      "text": "Go rinse your mouth out with soap or a minute, then blow soap bubbles from your mouth until the soap runs out",
+      "dificulty": "0",
+      "players": "2",
+      "spice": "0",
+      "type": "challenge",
+      "tags": [
+        "active/physical",
+        "fun/playful"
+      ]
+    },
+    {
+      "text": "Do a cannonball onto the couch",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "tags": [
+        "fun/playful",
+        "quick"
+      ]
+    },
+    {
+      "text": "Eat as much hot sauce as you can",
+      "dificulty": "0",
+      "players": "2",
+      "spice": "0",
+      "type": "challenge",
+      "tags": [
+        "fun/playful",
+        "quick"
+      ]
+    },
+    {
+      "text": "Give person to your left a kiss on the forehead",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "cooperative",
+        "fun/playful",
+        "relationship",
+        "romantic"
+      ]
+    },
+    {
+      "text": "Share a shirt with the person to your right for the next 3 rounds",
+      "dificulty": "3",
+      "players": "2",
+      "spice": "3",
+      "type": "challenge",
+      "tags": [
+        "cooperative",
+        "fun/playful",
+        "quick",
+        "relationship"
+      ]
+    },
+    {
+      "text": "Hold your shoe up to your nose until it is your turn again",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "fun/playful",
+        "requisities",
+        "silly"
+      ]
+    },
+    {
+      "text": "Go outside and sing your national anthem as loud as you can",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "acting",
+        "fun/playful"
+      ]
+    },
+    {
+      "text": "Fold yourself into a pretzel",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "active/physical",
+        "fun/playful",
+        "quick"
+      ]
+    },
+    {
+      "text": "Run in place or the next three rounds",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "active/physical",
+        "fun/playful"
+      ]
+    },
+    {
+      "text": "Call and yell at one of your parents and then tell them theyare grounded for a week",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "tags": [
+        "fun/playful"
+      ]
+    },
+    {
+      "text": "Take a selfie with your finger up your nose and post it to all your social media",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "fun/playful",
+        "requisities",
+        "silly"
+      ]
+    },
+    {
+      "text": "Do your best belly dance",
+      "dificulty": "3",
+      "players": "2",
+      "spice": "3",
+      "type": "challenge",
+      "tags": [
+        "active/physical",
+        "feelings",
+        "fun/playful",
+        "memories",
+        "quick",
+        "thoughts/opinions"
+      ]
+    },
+    {
+      "text": "Walk on your hands from one side of the room to the other",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "active/physical",
+        "fun/playful"
+      ]
+    },
+    {
+      "text": "Make up a three minute song about the first thing that comesto your mind",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "creative/imagination",
+        "fun/playful"
+      ]
+    },
+    {
+      "text": "Act like a pig until it is your turn again",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "acting",
+        "fun/playful"
+      ]
+    },
+    {
+      "text": "Put makeup on with no mirror",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "fun/playful",
+        "quick",
+        "requisities"
+      ]
+    },
+    {
+      "text": "What is your favourite part of my body?",
+      "dificulty": "3",
+      "players": "2",
+      "spice": "3",
+      "type": "question",
+      "tags": [
+        "casual",
+        "thoughts/opinions"
+      ]
+    },
+    {
+      "text": "If you could do whatever you wanted to me what would it be?",
+      "dificulty": "4",
+      "players": "2",
+      "spice": "4",
+      "type": "question",
+      "tags": [
+        "casual",
+        "creative/imagination",
+        "hypotheticals",
+        "memories",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "Describe what you would like me to do to you.",
+      "dificulty": "4",
+      "players": "2",
+      "spice": "4",
+      "type": "question",
+      "tags": [
+        "casual",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "How many orgasims have I given you in one sitting?",
+      "dificulty": "4",
+      "players": "2",
+      "spice": "4",
+      "type": "question",
+      "tags": [
+        "casual",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "On a scale from 1 to 10 how good is the head that I give you?",
+      "dificulty": "4",
+      "players": "2",
+      "spice": "4",
+      "type": "question",
+      "tags": [
+        "casual",
+        "relationship",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "Do you like giving me head?",
+      "dificulty": "5",
+      "players": "2",
+      "spice": "5",
+      "type": "question",
+      "tags": [
+        "casual",
+        "quick",
+        "relationship",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "What is our best sexual experience that you remember?",
+      "dificulty": "5",
+      "players": "2",
+      "spice": "5",
+      "type": "question",
+      "tags": [
+        "casual",
+        "feelings",
+        "memories",
+        "relationship",
+        "spicy",
+        "thoughts/opinions"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "Have we ever had bad sex?",
+      "dificulty": "4",
+      "players": "2",
+      "spice": "4",
+      "type": "question",
+      "tags": [
+        "casual",
+        "memories",
+        "quick",
+        "relationship",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "Where do you like my tongue the most?",
+      "dificulty": "5",
+      "players": "2",
+      "spice": "5",
+      "type": "question",
+      "tags": [
+        "casual",
+        "silly",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "Would you ever eat my booty",
+      "dificulty": "5",
+      "players": "2",
+      "spice": "5",
+      "type": "question",
+      "tags": [
+        "casual",
+        "memories",
+        "quick",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "Do you like it rough or soft?",
+      "dificulty": "4",
+      "players": "2",
+      "spice": "4",
+      "type": "question",
+      "tags": [
+        "casual",
+        "quick",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "If you could invite any of our friends into the bedroom withus, who would it be?",
+      "dificulty": "5",
+      "players": "2",
+      "spice": "5",
+      "type": "question",
+      "tags": [
+        "casual",
+        "creative/imagination",
+        "hypotheticals",
+        "relationship",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "Would you ever want to go to a swingers party?",
+      "dificulty": "4",
+      "players": "2",
+      "spice": "4",
+      "type": "question",
+      "tags": [
+        "casual",
+        "memories",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "What is your favourite pair of my underwear?",
+      "dificulty": "4",
+      "players": "2",
+      "spice": "4",
+      "type": "question",
+      "tags": [
+        "casual",
+        "requisities",
+        "spicy",
+        "thoughts/opinions"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "Do you ever dream about the sex we have together?",
+      "dificulty": "4",
+      "players": "2",
+      "spice": "4",
+      "type": "question",
+      "tags": [
+        "casual",
+        "memories",
+        "relationship",
+        "spicy",
+        "thoughts/opinions"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "What is the thing that I do that makes you cum every time?",
+      "dificulty": "5",
+      "players": "2",
+      "spice": "5",
+      "type": "question",
+      "tags": [
+        "casual",
+        "memories",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "Would you ever want to have sex with one of my friends? If so, who?",
+      "dificulty": "5",
+      "players": "2",
+      "spice": "5",
+      "type": "question",
+      "tags": [
+        "casual",
+        "memories",
+        "relationship",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "What is the funniest thing that I have ever done during sex?",
+      "dificulty": "5",
+      "players": "2",
+      "spice": "5",
+      "type": "question",
+      "tags": [
+        "casual",
+        "memories",
+        "relationship",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "Have you ever faked an orgasim with me?",
+      "dificulty": "4",
+      "players": "2",
+      "spice": "4",
+      "type": "question",
+      "tags": [
+        "casual",
+        "memories",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "Have I ever done something that you didn’t enjoy during sex?",
+      "dificulty": "5",
+      "players": "2",
+      "spice": "5",
+      "type": "question",
+      "tags": [
+        "casual",
+        "memories",
+        "relationship",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "Have you ever not been in the mood, but still had sex because it made me happy?",
+      "dificulty": "5",
+      "players": "2",
+      "spice": "5",
+      "type": "question",
+      "tags": [
+        "casual",
+        "memories",
+        "relationship",
+        "silly",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "What part of your body would you love for me to massage?",
+      "dificulty": "4",
+      "players": "2",
+      "spice": "4",
+      "type": "question",
+      "tags": [
+        "casual",
+        "feelings",
+        "relationship",
+        "spicy",
+        "thoughts/opinions"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "Have you ever thought about someone else while we were having sex?",
+      "dificulty": "4",
+      "players": "2",
+      "spice": "4",
+      "type": "question",
+      "tags": [
+        "casual",
+        "memories",
+        "relationship",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "Do you like drunk sex?",
+      "dificulty": "4",
+      "players": "2",
+      "spice": "4",
+      "type": "question",
+      "tags": [
+        "active/physical",
+        "casual",
+        "quick",
+        "relationship",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "Would you ever want to get a stripper pole for our room?",
+      "dificulty": "4",
+      "players": "2",
+      "spice": "4",
+      "type": "question",
+      "tags": [
+        "casual",
+        "memories",
+        "relationship",
+        "requisities",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "What food would you like me to eat off of you?",
+      "dificulty": "5",
+      "players": "2",
+      "spice": "5",
+      "type": "question",
+      "tags": [
+        "casual",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "Would you ever cook naked for me?",
+      "dificulty": "4",
+      "players": "2",
+      "spice": "4",
+      "type": "question",
+      "tags": [
+        "casual",
+        "memories",
+        "quick",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "Do you like “doggy-style” or “missionary” better?",
+      "dificulty": "5",
+      "players": "2",
+      "spice": "5",
+      "type": "question",
+      "tags": [
+        "casual",
+        "relationship",
+        "silly",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "What sexual position have you always wanted to try?",
+      "dificulty": "5",
+      "players": "2",
+      "spice": "5",
+      "type": "question",
+      "tags": [
+        "casual",
+        "relationship",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "Would you ever want to make a video with me?",
+      "dificulty": "5",
+      "players": "2",
+      "spice": "5",
+      "type": "question",
+      "tags": [
+        "casual",
+        "memories",
+        "spicy"
+      ],
+      "special": "spicy"
+    },
+    {
+      "text": "How long have you gone without showering?",
+      "dificulty": "0",
+      "players": "2",
+      "spice": "0",
+      "type": "question",
+      "tags": [
+        "casual",
+        "pop_culture/media"
+      ]
+    },
+    {
+      "text": "What don't you want anyone in this group to ask you? (Be sure to keep it in mind for future rounds!)",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual"
+      ]
+    },
+    {
+      "text": "Have you ever told a lie during a game of Truth or Dare? What was it and why?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "memories"
+      ]
+    },
+    {
+      "text": "Have you ever had a crush on anyone here?",
+      "dificulty": "3",
+      "players": "2",
+      "spice": "3",
+      "type": "question",
+      "tags": [
+        "casual",
+        "memories",
+        "relationship",
+        "romantic"
+      ]
+    },
+    {
+      "text": "Have you ever stolen anything?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "memories",
+        "quick"
+      ]
+    },
+    {
+      "text": "What's your scariest nightmare?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "quick"
+      ]
+    },
+    {
+      "text": "What do you think is your biggest physical flaw?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "feelings",
+        "thoughts/opinions"
+      ]
+    },
+    {
+      "text": "Have you ever gone skinny dipping?",
+      "dificulty": "3",
+      "players": "2",
+      "spice": "3",
+      "type": "question",
+      "tags": [
+        "casual",
+        "memories",
+        "quick"
+      ]
+    },
+    {
+      "text": "What kind of pajamas do you wear to bed?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual"
+      ]
+    },
+    {
+      "text": "What's the dumbest thing you've ever done on a dare?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "tags": [
+        "casual",
+        "feelings",
+        "memories",
+        "thoughts/opinions"
+      ]
+    },
+    {
+      "text": "What color is your underwear?",
+      "dificulty": "3",
+      "players": "2",
+      "spice": "3",
+      "type": "question",
+      "tags": [
+        "casual",
+        "quick",
+        "requisities"
+      ]
+    },
+    {
+      "text": "Have you ever peed in the swimming pool?",
+      "dificulty": "0",
+      "players": "2",
+      "spice": "0",
+      "type": "question",
+      "tags": [
+        "casual",
+        "memories"
+      ]
+    },
+    {
+      "text": "Where is the strangest place you've used the bathroom?",
+      "dificulty": "0",
+      "players": "2",
+      "spice": "0",
+      "type": "question",
+      "tags": [
+        "casual"
+      ]
+    },
+    {
+      "text": "Are you scared of dying? Why?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "feelings",
+        "quick",
+        "thoughts/opinions"
+      ]
+    },
+    {
+      "text": "What is your biggest fear?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "feelings",
+        "quick",
+        "thoughts/opinions"
+      ]
+    },
+    {
+      "text": "What happened on the worst day of your life?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "feelings",
+        "memories",
+        "thoughts/opinions"
+      ]
+    },
+    {
+      "text": "Have you ever climbed a tree?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "active/physical",
+        "casual",
+        "memories",
+        "quick"
+      ]
+    },
+    {
+      "text": "Have you ever sang and danced in the grocery store?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "active/physical",
+        "casual",
+        "memories"
+      ]
+    },
+    {
+      "text": "If you could be a superhero, what would your power be?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "creative/imagination",
+        "hypotheticals",
+        "pop_culture/media"
+      ]
+    },
+    {
+      "text": "What would you do if you were invisible for a day?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual"
+      ]
+    },
+    {
+      "text": "If your life were made into a movie who would play you?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "pop_culture/media"
+      ]
+    },
+    {
+      "text": "What's your biggest pet peeve?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "feelings",
+        "quick",
+        "thoughts/opinions"
+      ]
+    },
+    {
+      "text": "What is your special talent?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "quick"
+      ]
+    },
+    {
+      "text": "What's the best meal you've ever had?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "feelings",
+        "memories",
+        "thoughts/opinions"
+      ]
+    },
+    {
+      "text": "What's you favorite Disney movie and why?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "pop_culture/media",
+        "thoughts/opinions"
+      ]
+    },
+    {
+      "text": "What would you do with a million dollars if you ever won the lottery?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "memories"
+      ]
+    },
+    {
+      "text": "Who was your first crush, or who is your current crush?",
+      "dificulty": "3",
+      "players": "2",
+      "spice": "3",
+      "type": "question",
+      "tags": [
+        "casual",
+        "relationship",
+        "romantic"
+      ]
+    },
+    {
+      "text": "How old were you when you had your first kiss?",
+      "dificulty": "3",
+      "players": "2",
+      "spice": "3",
+      "type": "question",
+      "tags": [
+        "casual",
+        "memories",
+        "relationship",
+        "romantic"
+      ]
+    },
+    {
+      "text": "What would you do if your current boyfriend/girlfriend ended things right now?",
+      "dificulty": "3",
+      "players": "2",
+      "spice": "3",
+      "type": "question",
+      "tags": [
+        "casual",
+        "relationship",
+        "romantic"
+      ]
+    },
+    {
+      "text": "Have you ever cheated on a boyfriend/girlfriend?",
+      "dificulty": "3",
+      "players": "2",
+      "spice": "3",
+      "type": "question",
+      "tags": [
+        "casual",
+        "memories",
+        "relationship",
+        "romantic"
+      ]
+    },
+    {
+      "text": "Have you ever been cheated on by a boyfriend/girlfriend?",
+      "dificulty": "3",
+      "players": "2",
+      "spice": "3",
+      "type": "question",
+      "tags": [
+        "casual",
+        "memories",
+        "relationship",
+        "romantic"
+      ]
+    },
+    {
+      "text": "If you could go on a date with anyone in the room who would it be?",
+      "dificulty": "3",
+      "players": "2",
+      "spice": "3",
+      "type": "question",
+      "tags": [
+        "casual",
+        "creative/imagination",
+        "hypotheticals",
+        "relationship",
+        "romantic"
+      ]
+    },
+    {
+      "text": "What is the most awkward moment you've ever had on a date?",
+      "dificulty": "3",
+      "players": "2",
+      "spice": "3",
+      "type": "question",
+      "tags": [
+        "casual",
+        "feelings",
+        "memories",
+        "relationship",
+        "romantic",
+        "thoughts/opinions"
+      ]
+    },
+    {
+      "text": "If you could kiss a celebrity without it impacting your current relationship, who would it be?",
+      "dificulty": "3",
+      "players": "2",
+      "spice": "3",
+      "type": "question",
+      "tags": [
+        "acting",
+        "casual",
+        "creative/imagination",
+        "hypotheticals",
+        "pop_culture/media",
+        "relationship",
+        "romantic"
+      ]
+    },
+    {
+      "text": "What would you do on the perfect first date?",
+      "dificulty": "3",
+      "players": "2",
+      "spice": "3",
+      "type": "question",
+      "tags": [
+        "casual",
+        "memories",
+        "relationship",
+        "romantic"
+      ]
+    },
+    {
+      "text": "Of all the people you know, who has the most beautiful eyes?",
+      "dificulty": "3",
+      "players": "2",
+      "spice": "3",
+      "type": "question",
+      "tags": [
+        "casual"
+      ]
+    },
+    {
+      "text": "If you could marry one teacher in the school, who would you pick and why?",
+      "dificulty": "3",
+      "players": "2",
+      "spice": "3",
+      "type": "question",
+      "tags": [
+        "casual",
+        "childhood",
+        "creative/imagination",
+        "hypotheticals"
+      ]
+    },
+    {
+      "text": "What were your first impressions of me (the person asking the question)?",
+      "dificulty": "3",
+      "players": "2",
+      "spice": "3",
+      "type": "question",
+      "tags": [
+        "acting",
+        "casual"
+      ]
+    },
+    {
+      "text": "What personality traits would cause you to end a friendship?",
+      "dificulty": "3",
+      "players": "2",
+      "spice": "3",
+      "type": "question",
+      "tags": [
+        "casual",
+        "relationship"
+      ]
+    },
+    {
+      "text": "Would you go behind a friend's back with a crush?",
+      "dificulty": "3",
+      "players": "2",
+      "spice": "3",
+      "type": "question",
+      "tags": [
+        "casual",
+        "relationship",
+        "romantic"
+      ]
+    },
+    {
+      "text": "Have you ever lied to your best friend?",
+      "dificulty": "3",
+      "players": "2",
+      "spice": "3",
+      "type": "question",
+      "tags": [
+        "casual",
+        "feelings",
+        "memories",
+        "relationship",
+        "thoughts/opinions"
+      ]
+    },
+    {
+      "text": "Would you ever cheat off a friend's paper?",
+      "dificulty": "3",
+      "players": "2",
+      "spice": "3",
+      "type": "question",
+      "tags": [
+        "casual",
+        "memories",
+        "relationship"
+      ]
+    },
+    {
+      "text": "How many best friends have you had during your lifetime?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "feelings",
+        "memories",
+        "relationship",
+        "thoughts/opinions"
+      ]
+    },
+    {
+      "text": "If you were stuck on a deserted island which friend would you want with you?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "creative/imagination",
+        "hypotheticals",
+        "relationship"
+      ]
+    },
+    {
+      "text": "Which person here knows something about you that you wouldn't want revealed?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual"
+      ]
+    },
+    {
+      "text": "What are the three qualities you feel are most important in a friend?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "feelings",
+        "relationship",
+        "thoughts/opinions"
+      ]
+    },
+    {
+      "text": "What would make you lie for your friend?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "question",
+      "tags": [
+        "casual",
+        "relationship"
+      ]
+    },
+    {
+      "text": "Drink a mystery brew concocted by the rest of the group. Make sure there is nothing harmful or dangerous in the concoction and set a reasonable limit of sips the person must take to complete the dare.",
+      "dificulty": "0",
+      "players": "2",
+      "spice": "0",
+      "type": "challenge",
+      "tags": [
+        "cooperative",
+        "fun/playful",
+        "relationship"
+      ]
+    },
+    {
+      "text": "Eat a mouthful of crackers and try to whistle.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "tags": [
+        "fun/playful"
+      ]
+    },
+    {
+      "text": "Crack an egg on your head.",
+      "dificulty": "0",
+      "players": "2",
+      "spice": "0",
+      "type": "challenge",
+      "tags": [
+        "fun/playful",
+        "quick",
+        "relationship",
+        "requisities"
+      ]
+    },
+    {
+      "text": "Combine two foods that should never go together, such as pickles and peanut butter or applesauce and olives, and eat a huge bite.",
+      "dificulty": "0",
+      "players": "2",
+      "spice": "0",
+      "type": "challenge",
+      "tags": [
+        "fun/playful",
+        "memories",
+        "requisities"
+      ]
+    },
+    {
+      "text": "Stand next to the refrigerator (or food pack if you're camping), close your eyes, and randomly point to something inside. Keep your eyes shut while someone from the group helps you eat some of the food you picked.",
+      "dificulty": "0",
+      "players": "2",
+      "spice": "0",
+      "type": "challenge",
+      "tags": [
+        "cooperative",
+        "fun/playful",
+        "relationship",
+        "requisities"
+      ]
+    },
+    {
+      "text": "Pretend to be a waiter or waitress and take snack orders from everyone in the group. Bring them the food they ordered and then check back to see if they like it.",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "acting",
+        "fun/playful",
+        "memories"
+      ]
+    },
+    {
+      "text": "Eat a snack without using your hands.",
+      "dificulty": "0",
+      "players": "2",
+      "spice": "0",
+      "type": "challenge",
+      "tags": [
+        "acting",
+        "fun/playful"
+      ]
+    },
+    {
+      "text": "Exchange shirts with the person next to you for the next round of questions.",
+      "dificulty": "3",
+      "players": "2",
+      "spice": "3",
+      "type": "challenge",
+      "tags": [
+        "cooperative",
+        "fun/playful",
+        "relationship"
+      ]
+    },
+    {
+      "text": "Wear a funny hat on your head for the next three rounds of questions.",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "fun/playful",
+        "quick",
+        "relationship"
+      ]
+    },
+    {
+      "text": "Wear your pants backward for the rest of the game.",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "fun/playful"
+      ]
+    },
+    {
+      "text": "Take off your socks and wear them on your hands for the rest of the evening.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "tags": [
+        "fun/playful",
+        "requisities"
+      ]
+    },
+    {
+      "text": "Make a headdress out of toilet paper and pose for photos.",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "fun/playful",
+        "relationship"
+      ]
+    },
+    {
+      "text": "Switch clothing with someone of the opposite gender. Change in private, but wear the clothes for the next four rounds.",
+      "dificulty": "3",
+      "players": "2",
+      "spice": "3",
+      "type": "challenge",
+      "tags": [
+        "cooperative",
+        "fun/playful",
+        "relationship"
+      ]
+    },
+    {
+      "text": "Get a large garbage bag and cut the bottom open. Put it on like a skirt and tie the ties around your waist. Act like you are modeling couture on the catwalk.",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "challenge",
+      "tags": [
+        "acting",
+        "active/physical",
+        "fun/playful"
+      ]
+    },
+    {
+      "text": "Take 10 minutes to come up with an outfit that has every color of the rainbow. Borrow things from friends as you need to.",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "fun/playful",
+        "memories",
+        "quick",
+        "relationship"
+      ]
+    },
+    {
+      "text": "Set up a tea party between any of the stuffed animals in the house. Invite the girls in your group to join.",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "fun/playful"
+      ]
+    },
+    {
+      "text": "Tell them they have to do a logic puzzle and if they don't finish it within 3 minutes - you will give them an embarrasing dare!",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "acting",
+        "fun/playful",
+        "quick"
+      ]
+    },
+    {
+      "text": "Say the alphabet backwards in a British accent.",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "fun/playful"
+      ]
+    },
+    {
+      "text": "Run around the room imitating a monkey.",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "active/physical",
+        "fun/playful",
+        "silly"
+      ]
+    },
+    {
+      "text": "Give someone in the group a piggyback ride around the room.",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "active/physical",
+        "cooperative",
+        "fun/playful",
+        "relationship"
+      ]
+    },
+    {
+      "text": "Make up a rap about the person to your right.",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "cooperative",
+        "creative/imagination",
+        "fun/playful",
+        "relationship"
+      ]
+    },
+    {
+      "text": "If there is a pet at the event, try to hold the pet for the rest of the night.",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "fun/playful"
+      ]
+    },
+    {
+      "text": "Pretend that you're swimming underwater for the next three rounds of questions. Don't forget to make bubbling noises and come up for air from time to time.",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "acting",
+        "fun/playful",
+        "quick"
+      ]
+    },
+    {
+      "text": "Everything you say for the rest of the game has to rhyme.",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "fun/playful",
+        "memories"
+      ]
+    },
+    {
+      "text": "Repeat everything another player says for the next three rounds of the game.",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "cooperative",
+        "fun/playful",
+        "memories",
+        "quick",
+        "relationship"
+      ]
+    },
+    {
+      "text": "Sing instead of speaking for the next two rounds of the game.",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "2",
+      "type": "challenge",
+      "tags": [
+        "acting",
+        "fun/playful",
+        "quick"
+      ]
+    }
+  ]
+}

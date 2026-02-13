@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Couple Cottage Cards</title>
+    <link rel="stylesheet" href="styles/style.css" />
+    <link rel="stylesheet" href="styles/cards-special.css" />
+    <link rel="stylesheet" href="styles/cards-default.css" />
+</head>
+
+<body>
+<div class="app">
+
+    <!-- CONFIG / HOME SCREEN -->
+    <section id="config-screen" class="screen">
+        <h1>Couple Cottage Cards</h1>
+        <p class="subtitle">Pick deck size + filters.</p>
+
+        <div class="config-panel">
+            <div class="config-row">
+                <label for="deckSizeInput"><b>Number of cards in deck:</b></label>
+                <input id="deckSizeInput" type="number" min="1" max="50" value="5" />
+            </div>
+
+            <!-- Filters container (your JS fills #filters) -->
+            <details class="filters-panel" open>
+                <summary class="filters-summary">
+                    <span class="filters-title">Filters</span>
+                    <span class="filters-note">Tap to show/hide</span>
+                </summary>
+                <div id="filters"></div>
+            </details>
+
+            <div id="uiError" class="ui-error hidden"></div>
+
+            <div class="config-actions">
+                <button id="startButton" type="button">Start deck</button>
+            </div>
+        </div>
+    </section>
+
+    <!-- GAME / DECK SCREEN -->
+    <section id="game-screen" class="screen hidden">
+        <div class="top-bar">
+            <button id="backButton" type="button">← Back</button>
+            <button id="newDeckButton" type="button">New deck</button>
+        </div>
+
+        <div class="deck-wrapper">
+            <div class="deck" id="deck" aria-label="Deck of cards"></div>
+        </div>
+
+        <p class="hint">
+            Click the deck: first click flips the top card, second click removes it.
+        </p>
+    </section>
+
+    <!-- MINI GAME SCREEN -->
+    <section id="mini-game-screen" class="screen hidden">
+        <div class="mini-game-topbar">
+            <button id="exitMiniGameButton" class="btn">← Back to cards</button>
+            <div id="miniGameTitle" class="mini-game-title">Mini game</div>
+        </div>
+
+        <div id="miniGameHost" class="mini-game-host"></div>
+        <div id="miniGameError" class="ui-error hidden"></div>
+    </section>
+
+</div>
+
+<script type="module" src="scripts/script.js"></script>
+</body>
+</html>
