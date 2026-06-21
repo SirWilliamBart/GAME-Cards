@@ -30,14 +30,14 @@ const EXAMPLE_CARDS_JSON = `[
 const CUSTOM_BACKS_STORAGE_KEY = "coupleCottageCards.customBacks.v1";
 const CUSTOM_BACKS_STYLE_ID = "customCardBackStyles";
 
-const DEFAULT_ICON = "✨";
+const DEFAULT_ICON = "⭐";
 const DEFAULT_GRADIENT = {
     angle: 135,
-    hueA: 28,
-    hueB: 36,
+    hueA: 216,
+    hueB: 216,
     saturation: 100,
-    lightnessA: 50,
-    lightnessB: 64,
+    lightnessA: 71,
+    lightnessB: 77,
 };
 
 export function setupAddCardsUI({
@@ -564,7 +564,7 @@ ${selector} .card-front::after{
     left: 50%;
     transform: translate(-50%, -50%);
     font-size: 96px;
-    opacity: 0.75;
+    opacity: 0.95;
     pointer-events: none;
     filter:
         drop-shadow(0 0 2px rgba(0,0,0,0.9))

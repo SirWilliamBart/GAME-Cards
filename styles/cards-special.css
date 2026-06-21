@@ -19,7 +19,7 @@
     left: 50%;
     transform: translate(-50%, -50%);
     font-size: 96px;     /* adjust size here */
-    opacity: 0.25;      /* subtle background effect */
+    opacity: 0.95;      /* subtle background effect */
     pointer-events: none;
     filter:
             drop-shadow(0 0 2px rgba(0,0,0,0.9))
@@ -40,7 +40,7 @@
     left: 50%;
     transform: translate(-50%, -50%);
     font-size: 96px;     /* adjust size here */
-    opacity: 0.35;      /* subtle background effect */
+    opacity: 0.95;      /* subtle background effect */
     pointer-events: none;
     filter:
             drop-shadow(0 0 2px rgba(0,0,0,0.9))
@@ -60,7 +60,7 @@
     left: 50%;
     transform: translate(-50%, -50%);
     font-size: 96px;
-    opacity: 0.75;
+    opacity: 0.95;
     pointer-events: none;
     filter:
             drop-shadow(0 0 2px rgba(0,0,0,0.9))
@@ -80,7 +80,7 @@
     left: 50%;
     transform: translate(-50%, -50%);
     font-size: 96px;
-    opacity: 0.75;
+    opacity: 0.95;
     pointer-events: none;
     filter:
             drop-shadow(0 0 2px rgba(0,0,0,0.9))
@@ -100,7 +100,7 @@
     left: 50%;
     transform: translate(-50%, -50%);
     font-size: 96px;
-    opacity: 0.75;
+    opacity: 0.95;
     pointer-events: none;
     filter:
             drop-shadow(0 0 2px rgba(0,0,0,0.9))
@@ -121,7 +121,7 @@
     left: 50%;
     transform: translate(-50%, -50%);
     font-size: 96px;     /* adjust size here */
-    opacity: 0.75;      /* subtle background effect */
+    opacity: 0.95;      /* subtle background effect */
     pointer-events: none;
     filter:
             drop-shadow(0 0 2px rgba(0,0,0,0.9))

@@ -672,7 +672,7 @@ button:active{
     font-size: 96px;
     line-height: 1;
     text-align: center;
-    opacity: 0.75;
+    opacity: 0.95;
     cursor: text;
     filter:
             drop-shadow(0 0 2px rgba(0,0,0,0.9))
