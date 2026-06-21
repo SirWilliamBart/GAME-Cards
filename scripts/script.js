@@ -2,12 +2,14 @@
 import { buildDeck } from "./deckView.js";
 import { openMiniGame, closeMiniGame } from "./miniGameLoader.js";
 import { renderFiltersUI, buildPoolFromFilters } from "./filters.js";
+import { setupAddCardsUI } from "./addCards.js";
 
-const JSON_URL = "cards.json";
+const JSON_URL = "cards2.json";
 
 let cardsData = null;
 let currentDeckSize = 5;
 let currentPool = [];
+let additionalCards = [];
 
 /* ---------- helpers ---------- */
 function shuffleArray(arr) {
@@ -77,8 +79,7 @@ function showUiError(msg) {
     el.classList.toggle("hidden", !msg);
 }
 
-// Dedicated mini-game error area (recommended)
-// Add in HTML: <div id="miniGameError" class="error hidden"></div>
+// Dedicated mini-game error area.
 function showMiniGameError(msg) {
     const el = document.getElementById("miniGameError");
     if (!el) {
@@ -88,6 +89,7 @@ function showMiniGameError(msg) {
     el.textContent = String(msg ?? "");
     el.classList.toggle("hidden", !msg);
 }
+
 function clearMiniGameError() {
     const el = document.getElementById("miniGameError");
     if (!el) return;
@@ -154,15 +156,16 @@ function renderDeck() {
         return;
     }
 
-    if (!currentPool.length) {
+    if (!currentPool.length && !additionalCards.length) {
         deckEl.innerHTML = "";
-        showUiError("No cards in pool. Adjust filters.");
+        showUiError("No cards in pool. Adjust filters or load extra cards.");
         return;
     }
 
     buildDeck({
         deckEl,
         items: currentPool,
+        extraItems: additionalCards,
         deckSize: currentDeckSize,
         escapeHtml,
         shuffleArray,
@@ -199,8 +202,9 @@ function startGameFromFilters() {
 
     rebuildPoolFromUI();
 
-    if (!currentPool.length) {
-        showUiError("No cards match your filters. Remove required tags or excluded tags.");
+    // Additional loaded cards do NOT count toward deck size, but they can still create a playable deck.
+    if (!currentPool.length && !additionalCards.length) {
+        showUiError("No cards match your filters and no extra cards are loaded.");
         return;
     }
 
@@ -236,13 +240,28 @@ async function init() {
 
         renderFiltersUI(cardsData, deps);
 
+        setupAddCardsUI({
+            ids: { host: "addCards" },
+            escapeHtml,
+            normalizeType,
+            normalizeTags,
+            getDifficulty,
+            getPlayers,
+            getSpice,
+            getSpecial,
+            showUiError,
+            onCardsChanged: (cards) => {
+                additionalCards = cards;
+            },
+        });
+
         document.getElementById("startButton")?.addEventListener("click", startGameFromFilters);
         document.getElementById("newDeckButton")?.addEventListener("click", newDeckSameFilters);
         document.getElementById("backButton")?.addEventListener("click", () => showScreen("config"));
 
-        // Exit mini-game back to game screen (NOW calls loader cleanup!)
+        // Exit mini-game back to game screen.
         document.getElementById("exitMiniGameButton")?.addEventListener("click", () => {
-            closeMiniGame("miniGameHost"); // <-- calls cleanup + clears host
+            closeMiniGame("miniGameHost");
             clearMiniGameError();
             showScreen("game");
         });

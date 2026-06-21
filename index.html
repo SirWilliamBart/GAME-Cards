@@ -23,13 +23,22 @@
                 <input id="deckSizeInput" type="number" min="1" max="50" value="5" />
             </div>
 
-            <!-- Filters container (your JS fills #filters) -->
+            <!-- Filters container (filters.js fills #filters) -->
             <details class="filters-panel" open>
                 <summary class="filters-summary">
                     <span class="filters-title">Filters</span>
                     <span class="filters-note">Tap to show/hide</span>
                 </summary>
                 <div id="filters"></div>
+            </details>
+
+            <!-- Add Cards container (addCards.js fills #addCards) -->
+            <details class="filters-panel add-cards-panel">
+                <summary class="filters-summary">
+                    <span class="filters-title">Add Cards</span>
+                    <span class="filters-note">Tap to show/hide</span>
+                </summary>
+                <div id="addCards"></div>
             </details>
 
             <div id="uiError" class="ui-error hidden"></div>

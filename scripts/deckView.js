@@ -4,6 +4,7 @@
 export function buildDeck({
                               deckEl,
                               items,
+                              extraItems = [],
                               deckSize,
                               escapeHtml,
                               shuffleArray,
@@ -14,10 +15,20 @@ export function buildDeck({
 
     const MAX_VISIBLE = 25;
 
-    // Build the FULL logical deck once (no visual cap here)
-    const shuffled = shuffleArray(items);
-    const fullSize = Math.min(deckSize, shuffled.length);
-    const deck = shuffled.slice(0, fullSize); // last is the "top"
+    const mainItems = Array.isArray(items) ? items : [];
+    const addedItems = Array.isArray(extraItems) ? extraItems : [];
+
+    // Normal cards are limited by deckSize.
+    const normalDeckSize = Math.max(0, Number(deckSize) || 0);
+    const shuffledMain = shuffleArray(mainItems);
+    const selectedMainCards = shuffledMain.slice(0, Math.min(normalDeckSize, shuffledMain.length));
+
+    // Added cards are always included and do NOT count toward deckSize.
+    // The complete deck is shuffled at the end, so extra cards are randomly distributed.
+    const deck = shuffleArray([
+        ...selectedMainCards,
+        ...addedItems,
+    ]);
 
     function makeCard(item, stackIndex, zIndex) {
         const card = document.createElement("div");
@@ -53,7 +64,7 @@ export function buildDeck({
             // Show ONLY title + bottom hint (never show url)
             back.innerHTML = `
         <div class="card-back-content">
-          <div class="game-title"> ${escapeHtml(title)}</div>
+          <div class="game-title">${escapeHtml(title)}</div>
           <div class="game-hint">Click again to open</div>
         </div>
       `;
