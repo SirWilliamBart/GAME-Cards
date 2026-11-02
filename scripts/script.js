@@ -3,6 +3,7 @@ import { buildDeck } from "./deckView.js";
 import { openMiniGame, closeMiniGame } from "./miniGameLoader.js";
 import { renderFiltersUI, buildPoolFromFilters } from "./filters.js";
 import { setupAddCardsUI } from "./addCards.js";
+import { setupScoreboard } from "./scoreboard.js";
 
 const JSON_URL = "cards3.json";
 
@@ -274,3 +275,4 @@ async function init() {
 }
 
 init();
+setupScoreboard();

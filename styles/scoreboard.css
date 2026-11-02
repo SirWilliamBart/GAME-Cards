@@ -1,0 +1,323 @@
+
+/* =========================================================
+   SCOREBOARD - DESKTOP SIDEBAR
+   ========================================================= */
+
+.scoreboard-panel {
+    position: fixed;
+    top: 50%;
+    right: 0;
+
+    width: 280px;
+    height: min(440px, calc(100dvh - 80px));
+
+    background: #ffffff;
+    border: 1px solid #d6e4ff;
+    border-radius: 18px 0 0 18px;
+
+    box-shadow: 0 12px 35px rgba(30, 60, 120, 0.22);
+
+    z-index: 1000;
+
+    transform: translate(100%, -50%);
+    transition: transform 0.3s ease;
+
+    overflow: visible;
+}
+
+/* Expanded sidebar */
+body.scoreboard-open .scoreboard-panel {
+    transform: translate(0, -50%);
+}
+
+/* Reserve space for the open sidebar on desktop */
+@media (min-width: 851px) {
+    body {
+        transition: padding-right 0.3s ease;
+    }
+
+    body.scoreboard-open {
+        padding-right: 300px;
+    }
+}
+
+/* =========================================================
+   COLLAPSE BUTTON
+   ========================================================= */
+
+.scoreboard-toggle {
+    position: absolute;
+
+    left: -44px;
+    top: 50%;
+    transform: translateY(-50%);
+
+    width: 44px;
+    height: 52px;
+
+    padding: 0;
+
+    background: linear-gradient(135deg, #4f8cff, #6aa6ff);
+    color: #ffffff;
+
+    border: none;
+    border-radius: 12px 0 0 12px;
+
+    font-size: 26px;
+    font-weight: 700;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    cursor: pointer;
+
+    box-shadow: -4px 4px 12px rgba(30, 60, 120, 0.15);
+}
+
+.scoreboard-toggle:hover {
+    filter: brightness(1.07);
+    transform: translateY(-50%);
+}
+
+/* =========================================================
+   SCOREBOARD CONTENT
+   ========================================================= */
+
+.scoreboard-content {
+    width: 100%;
+    height: 100%;
+
+    display: flex;
+    flex-direction: column;
+
+    padding: 16px;
+
+    overflow: hidden;
+}
+
+.scoreboard-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    gap: 10px;
+    margin-bottom: 16px;
+}
+
+.scoreboard-header h2 {
+    margin: 0;
+
+    font-size: 20px;
+    font-weight: 800;
+    color: #1e3a8a;
+}
+
+#scoreboard-add {
+    padding: 8px 14px;
+
+    font-size: 13px;
+    font-weight: 700;
+
+    white-space: nowrap;
+}
+
+/* =========================================================
+   PLAYER LIST
+   ========================================================= */
+
+.scoreboard-columns,
+.scoreboard-player {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) 65px 26px;
+
+    gap: 7px;
+    align-items: center;
+}
+
+.scoreboard-columns {
+    margin-bottom: 8px;
+
+    font-size: 12px;
+    font-weight: 800;
+    color: #5b6b8c;
+}
+
+.scoreboard-columns span:nth-child(2) {
+    text-align: center;
+}
+
+.scoreboard-list {
+    flex: 1;
+    min-height: 0;
+
+    overflow-y: auto;
+    overflow-x: hidden;
+
+    display: flex;
+    flex-direction: column;
+
+    gap: 9px;
+
+    padding-right: 3px;
+}
+
+/* Scrollbar */
+
+.scoreboard-list::-webkit-scrollbar {
+    width: 7px;
+}
+
+.scoreboard-list::-webkit-scrollbar-thumb {
+    background: #c7d7f2;
+    border-radius: 10px;
+}
+
+/* =========================================================
+   PLAYER INPUTS
+   ========================================================= */
+
+.scoreboard-name,
+.scoreboard-score {
+    width: 100%;
+    min-width: 0;
+
+    padding: 9px 8px;
+
+    border: 1px solid #c7d7f2;
+    border-radius: 10px;
+
+    background: #f7faff;
+    color: #24324a;
+
+    font-family: inherit;
+    font-size: 13px;
+}
+
+.scoreboard-name:focus,
+.scoreboard-score:focus {
+    outline: none;
+    border-color: #4f8cff;
+    box-shadow: 0 0 0 3px rgba(79, 140, 255, 0.15);
+}
+
+.scoreboard-score {
+    text-align: center;
+
+    /* Hide spinner arrows */
+    appearance: textfield;
+    -moz-appearance: textfield;
+}
+
+.scoreboard-score::-webkit-inner-spin-button,
+.scoreboard-score::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+/* =========================================================
+   REMOVE PLAYER
+   ========================================================= */
+
+.scoreboard-remove {
+    width: 26px;
+    height: 30px;
+
+    padding: 0;
+
+    border-radius: 8px;
+
+    background: #fff1f2;
+    color: #e11d48;
+
+    font-size: 20px;
+    font-weight: 600;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    cursor: pointer;
+}
+
+.scoreboard-remove:hover {
+    background: #ffe4e6;
+    color: #be123c;
+
+    box-shadow: none;
+}
+
+/* Empty list */
+
+.scoreboard-empty {
+    padding: 18px 4px;
+
+    text-align: center;
+    font-size: 13px;
+    color: #8aa0c8;
+}
+
+/* =========================================================
+   MOBILE - BOTTOM DRAWER
+   ========================================================= */
+
+@media (max-width: 850px) {
+
+    .scoreboard-panel {
+        top: auto;
+
+        bottom: 0;
+        left: 0;
+        right: 0;
+
+        width: 100%;
+        height: min(320px, 42dvh);
+        max-height: none;
+
+        border-radius: 18px 18px 0 0;
+
+        transform: translateY(100%);
+    }
+
+    body.scoreboard-open .scoreboard-panel {
+        transform: translateY(0);
+    }
+
+    /* Reserve vertical space so the drawer
+       doesn't cover the main game content. */
+    body.scoreboard-open {
+        padding-bottom: min(320px, 42dvh);
+    }
+
+    /* Small tab visible at bottom when collapsed */
+    .scoreboard-toggle {
+        left: auto;
+        right: 14px;
+
+        top: -44px;
+
+        width: 48px;
+        height: 44px;
+
+        transform: none;
+
+        border-radius: 12px 12px 0 0;
+    }
+
+    .scoreboard-toggle:hover {
+        transform: none;
+    }
+
+    .scoreboard-content {
+        padding: 14px 18px;
+    }
+
+    .scoreboard-header {
+        margin-bottom: 10px;
+    }
+
+    .scoreboard-list {
+        padding-bottom: 8px;
+    }
+
+}
