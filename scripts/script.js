@@ -4,7 +4,7 @@ import { openMiniGame, closeMiniGame } from "./miniGameLoader.js";
 import { renderFiltersUI, buildPoolFromFilters } from "./filters.js";
 import { setupAddCardsUI } from "./addCards.js";
 
-const JSON_URL = "cards2.json";
+const JSON_URL = "cards3.json";
 
 let cardsData = null;
 let currentDeckSize = 5;

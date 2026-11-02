@@ -324,6 +324,7 @@ export function setupAddCardsUI({
 
         return {
             text: text || "Mini Game",
+            back: String(raw.back ?? "").trim(),
             type,
             url,
             players: getPlayers(raw),

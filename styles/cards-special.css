@@ -129,3 +129,19 @@
             drop-shadow(0 0 12px rgba(0,0,0,0.45))
             drop-shadow(0 6px 16px rgba(0,0,0,0.35));
 }
+
+.card.special-heal .card-front {
+    background: linear-gradient(135deg, #00ff15, #5eff00);
+}
+
+.card.special-defend .card-front {
+background: linear-gradient(135deg, #6ba6ff, #8ab9ff);
+}
+
+.card.special-atack .card-front{
+    background: linear-gradient(135deg, #ff0000, #ff482e);
+}
+
+.card.special-normal .card-front {
+    background: linear-gradient(135deg, #ffffff, #f4f4f4);
+}

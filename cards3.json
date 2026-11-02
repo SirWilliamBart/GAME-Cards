@@ -1,0 +1,128 @@
+{
+  "tags": [
+    "quick",
+    "casual"
+  ],
+  "cards": [
+    {
+      "text": "Paříž",
+      "back": "Jaké je hlavní město Francie?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "special": "defend",
+      "tags": ["quick", "casual"]
+    },
+    {
+      "text": "56",
+      "back": "Kolik je 7 × 8?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "special": "normal",
+      "tags": ["quick", "casual"]
+    },
+    {
+      "text": "H₂O",
+      "back": "Jaký chemický vzorec má voda?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "special": "heal",
+      "tags": ["quick", "casual"]
+    },
+    {
+      "text": "Jupiter",
+      "back": "Která planeta je největší ve Sluneční soustavě?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "special": "atack",
+      "tags": ["quick", "casual"]
+    },
+    {
+      "text": "William Shakespeare",
+      "back": "Kdo napsal tragédii Romeo a Julie?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "special": "normal",
+      "tags": ["pop_culture/media", "casual"]
+    },
+    {
+      "text": "60 minut",
+      "back": "Kolik minut má jedna hodina?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "special": "defend",
+      "tags": ["quick", "casual"]
+    },
+    {
+      "text": "Tichý oceán",
+      "back": "Jak se jmenuje největší oceán na Zemi?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "special": "normal",
+      "tags": ["quick", "casual"]
+    },
+    {
+      "text": "Zelenou",
+      "back": "Jakou barvu získáš smícháním modré a žluté barvy při malování?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "special": "atack",
+      "tags": ["quick", "casual"]
+    },
+    {
+      "text": "1939",
+      "back": "Ve kterém roce začala druhá světová válka v Evropě?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "special": "heal",
+      "tags": ["quick", "casual"]
+    },
+    {
+      "text": "Bratislava",
+      "back": "Jaké je hlavní město Slovenska?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "special": "defend",
+      "tags": ["quick", "casual"]
+    },
+    {
+      "text": "Srdce",
+      "back": "Který lidský orgán zajišťuje pumpování krve do celého těla?",
+      "dificulty": "2",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "special": "atack",
+      "tags": ["quick", "casual"]
+    },
+    {
+      "text": "6",
+      "back": "Kolik stran má pravidelný šestiúhelník?",
+      "dificulty": "1",
+      "players": "2",
+      "spice": "1",
+      "type": "question",
+      "special": "atack",
+      "tags": ["quick", "casual"]
+    }
+  ]
+}

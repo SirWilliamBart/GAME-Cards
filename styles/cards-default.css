@@ -73,6 +73,12 @@
     background: linear-gradient(135deg, #6ba6ff, #8ab9ff);
 }
 
+/* Make flashcard text match the original card text */
+.card-front:not(:empty) {
+    color: #1f2f4d;
+    font-weight: 600;
+}
+
 .card-back{
     background: #ffffff;
     transform: rotateY(180deg);

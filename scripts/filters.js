@@ -266,6 +266,7 @@ export function buildPoolFromFilters(data, deps) {
 
         const type = normalizeType(raw.type);
         const text = String(raw.text ?? "").trim();
+        const back = String(raw.back ?? "").trim();
         const url = raw.url ? String(raw.url).trim() : "";
 
         const isGame = type === "game";
@@ -306,7 +307,7 @@ export function buildPoolFromFilters(data, deps) {
             if (!hasAllRequired) return;
         }
 
-        pool.push({ text, type, url, players, difficulty, spice, special, tags });
+        pool.push({ text, back, type, url, players, difficulty, spice, special, tags });
     });
 
     return pool;

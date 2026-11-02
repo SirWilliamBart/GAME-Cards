@@ -57,6 +57,13 @@ export function buildDeck({
         const back = document.createElement("div");
         back.className = "card-face card-back";
 
+        // Show optional flashcard text on the initially visible side
+        const initialText = String(item?.back ?? "").trim();
+
+        if (initialText) {
+            front.textContent = initialText;
+        }
+
         if (type === "game") {
             const title = String(item?.text || "Mini Game").trim();
             const url = String(item?.url || "").trim();
